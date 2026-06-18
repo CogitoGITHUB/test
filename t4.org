@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       3737e46f-d0a4-4fec-9816-d96c35ebbe70
-:END:
-#+title: t4
-

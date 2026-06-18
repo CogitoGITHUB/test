@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       2aa64614-7e31-4e53-a02f-0c1f24a17d78
-:END:
-#+title: 2
-

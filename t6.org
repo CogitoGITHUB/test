@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       1bd1d178-9e7f-4d8e-a522-093205f73889
-:END:
-#+title: t6
-

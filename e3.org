@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       b2f9f560-c171-4c00-954b-cae4e138d4f9
-:END:
-#+title: e3
-
-its using capture but why do i see it in atonher tab ? in a split view ??? .. tho good part itn actually working im tiping in the lower part and its also apearing in the file .. 
-
-
-
