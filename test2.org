@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       9b20d6cc-828e-4f09-a413-3d8c1ffe9c71
+:END:
+#+title: test2
+
+
+[[id:6b3b47d1-0457-44d7-9a10-49e7ed8b2f1c][test1]]

@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       e62124cb-2dc8-4930-b66b-fdf23ab4d7d5
-:END:
-#+title: a2
-
