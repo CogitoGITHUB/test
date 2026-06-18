@@ -27,3 +27,11 @@
   :DELETED_ID:    d7f361ca-6570-47e7-90cd-ff234a4ee9c4
   :END:
   [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
+
+* nov
+  :PROPERTIES:
+  :CREATED:       <2026-06-18 Thu>
+  :DELETED_FILE:  nov.org
+  :DELETED_ID:    e2c96ba4-2f8a-4ff4-956e-15d1b309a656
+  :END:
+  [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
