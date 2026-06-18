@@ -3,7 +3,7 @@
 :END:
 #+title: e3
 
-
+its using capture but why do i see it in atonher tab ? in a split view ??? .. tho good part itn actually working im tiping in the lower part and its also apearing in the file .. 
 
 
 
