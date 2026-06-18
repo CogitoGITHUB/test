@@ -4,11 +4,3 @@
 #+STARTUP: overview
 
 
-* TODO Fix broken link in [[id:e20777f9-bc73-4abf-968a-8cfe713ce214][t2]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-18 Thu>
-  :DIRECTION:     incoming
-  :DELETED_NOTE:  t1
-  :DELETED_ID:    2be4daac-e58c-46b3-83f1-977a237c7740
-  :END:
-  [[elisp:(my/vulpea-links-restore)][Restore from Git]]
