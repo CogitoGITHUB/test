@@ -99,3 +99,10 @@
   :DELETED_ID:    f67a90ed-9a1a-4f7c-b412-6873788886f7
   :END:
   [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
+
+* Broken Links
+  :PROPERTIES:
+  :CREATED:       <2026-06-18 Thu>
+  :DELETED_FILE:  broken-links.org
+  :END:
+  [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
