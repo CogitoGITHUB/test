@@ -12,3 +12,12 @@
   :DELETED_ID:    8c9b4a89-038e-491e-b026-8ca91a156232
   :END:
   [[elisp:(my/vulpea-links-restore)][Restore from Git]]
+
+* TODO Fix broken link in [[id:a425ecb3-4501-498f-aefa-ccd688395f22][t2]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-18 Thu>
+  :DIRECTION:     outgoing
+  :DELETED_NOTE:  t1
+  :DELETED_ID:    8c9b4a89-038e-491e-b026-8ca91a156232
+  :END:
+  [[elisp:(my/vulpea-links-restore)][Restore from Git]]
