@@ -83,3 +83,11 @@
   :DELETED_ID:    1bd1d178-9e7f-4d8e-a522-093205f73889
   :END:
   [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
+
+* t7
+  :PROPERTIES:
+  :CREATED:       <2026-06-18 Thu>
+  :DELETED_FILE:  t7.org
+  :DELETED_ID:    b1d2bd04-81da-433f-a3bf-4c0949b39f0c
+  :END:
+  [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
