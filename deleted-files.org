@@ -11,3 +11,11 @@
   :DELETED_ID:    8e26baa8-9697-4b43-a036-ffeeb32226b9
   :END:
   [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
+
+* e3
+  :PROPERTIES:
+  :CREATED:       <2026-06-18 Thu>
+  :DELETED_FILE:  e3.org
+  :DELETED_ID:    b2f9f560-c171-4c00-954b-cae4e138d4f9
+  :END:
+  [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
