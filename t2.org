@@ -1,7 +1,5 @@
 :PROPERTIES:
-:ID:       a425ecb3-4501-498f-aefa-ccd688395f22
+:ID:       e20777f9-bc73-4abf-968a-8cfe713ce214
 :END:
 #+title: t2
 
-
-[[id:8c9b4a89-038e-491e-b026-8ca91a156232][t1]]
