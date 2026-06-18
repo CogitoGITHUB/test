@@ -2,4 +2,3 @@
 :ID:       e2c96ba4-2f8a-4ff4-956e-15d1b309a656
 :END:
 #+title: nov
-
