@@ -4,25 +4,10 @@
 #+STARTUP: overview
 
 
-
-* a1
+* e1
   :PROPERTIES:
   :CREATED:       <2026-06-18 Thu>
-  :DELETED_FILE:  a1.org
-  :DELETED_ID:    0068907c-9c17-429b-b606-5c1847b170f3
-  :END:
-  [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
-
-* Broken Links
-  :PROPERTIES:
-  :CREATED:       <2026-06-18 Thu>
-  :DELETED_FILE:  broken-links.org
-  :END:
-  [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
-
-* Deleted Files
-  :PROPERTIES:
-  :CREATED:       <2026-06-18 Thu>
-  :DELETED_FILE:  deleted-files.org
+  :DELETED_FILE:  e1.org
+  :DELETED_ID:    8e26baa8-9697-4b43-a036-ffeeb32226b9
   :END:
   [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
