@@ -1,8 +1,4 @@
 :PROPERTIES:
-:ID:       9b20d6cc-828e-4f09-a413-3d8c1ffe9c71
+:ID:       ff1d0351-370d-412f-a628-88c7434e4625
 :END:
 #+title: test2
-
-
-
-[[id:6b3b47d1-0457-44d7-9a10-49e7ed8b2f1c][test1]]
