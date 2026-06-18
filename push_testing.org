@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       003ee073-7df2-46b3-a16c-7239b25ebf66
-:END:
-#+title: push testing

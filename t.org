@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       92952fdb-179d-43c3-b6e5-77b6ff565211
-:END:
-#+title: t
