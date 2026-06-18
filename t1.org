@@ -1,9 +1,5 @@
 :PROPERTIES:
-:ID:       70f63bd0-4c48-4053-a237-433b5daa59d6
+:ID:       b169fe83-3fe3-4f92-a04a-90398d3b9e7b
 :END:
 #+title: t1
-
-[[id:e9855953-9d3c-486f-b2e4-2becdb9186e3][t2]]
-
-
 
