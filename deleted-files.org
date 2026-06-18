@@ -106,3 +106,10 @@
   :DELETED_FILE:  broken-links.org
   :END:
   [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
+
+* Deleted Files
+  :PROPERTIES:
+  :CREATED:       <2026-06-18 Thu>
+  :DELETED_FILE:  deleted-files.org
+  :END:
+  [[elisp:(my/vulpea-links-deleted-restore)][Restore from Git]]
