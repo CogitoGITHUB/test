@@ -1,19 +1,5 @@
 :PROPERTIES:
-:ID:       c72358ec-4678-492d-86fe-831517c166bd
+:ID:       e7c229d3-ac42-4f8d-a3e4-4892c2a8e28b
 :END:
 #+title: t2
 
-
-[[id:b2c7f161-e8e3-4fad-90c4-614457db8260][t1 heading test]]
-
-
-
-
-* t2 heading test
-:PROPERTIES:
-:ID:       af1c5002-ff56-41d6-9b34-e437031c735a
-:END:
-
-Yes, consult-vulpea-grep uses consult-ripgrep under the hood (set
-     via consult-vulpea-grep-command), scoped to your vulpea note
-     directories. That's working correctly.
