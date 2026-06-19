@@ -1,9 +1,5 @@
 :PROPERTIES:
-:ID:       499382c9-677a-474b-9d94-972c484dfaf6
+:ID:       ba2f08d8-74b2-46ba-82a3-ff65dabb03d5
 :END:
 #+title: t1
 
-* t1 heading test
-:PROPERTIES:
-:ID:       51db39a1-03be-4eac-952e-2853a9b112c6
-:END:
