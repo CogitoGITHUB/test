@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       0b957c8c-78e8-4f58-bfce-ef4c5891ed86
-:END:
-#+title: t1
-
-[[id:44d00665-345e-429f-bdb6-a515965a7da8][heading test to file]]
-
-
-[[id:fde244b2-aed8-4785-a5c8-ae3030732e3e][testing onetuww]]
