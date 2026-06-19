@@ -1,10 +1,5 @@
 :PROPERTIES:
-:ID:       ba2f08d8-74b2-46ba-82a3-ff65dabb03d5
+:ID:       0b957c8c-78e8-4f58-bfce-ef4c5891ed86
 :END:
 #+title: t1
-
-* heading1
-:PROPERTIES:
-:ID:       919e06a4-dc0b-4a6d-9ee7-4dc892e41221
-:END:
 
