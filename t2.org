@@ -8,3 +8,6 @@
 
 
 
+Yes, consult-vulpea-grep uses consult-ripgrep under the hood (set
+     via consult-vulpea-grep-command), scoped to your vulpea note
+     directories. That's working correctly.
