@@ -1,21 +1,5 @@
 :PROPERTIES:
-:ID:       8d73ce79-0b0b-4161-968f-0e7d730d4ec5
+:ID:       7391224b-fc34-4a61-8f71-5df3a6f4eb08
 :END:
 #+title: t1
-
-* t2 heading test
-:PROPERTIES:
-:ID:       3a433365-831a-4bbd-ab32-e3b06d6a955c
-:END:
-
-- parent :: [[id:8d73ce79-0b0b-4161-968f-0e7d730d4ec5][t1]]
-
-
-* testing again
-:PROPERTIES:
-:ID:       ca13852c-eb76-4937-9329-8ef734dffbf0
-:END:
-
-- parent :: [[id:8d73ce79-0b0b-4161-968f-0e7d730d4ec5][t1]]
-
 
