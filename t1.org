@@ -6,8 +6,4 @@
 [[id:44d00665-345e-429f-bdb6-a515965a7da8][heading test to file]]
 
 
-* testing onetuww
-:PROPERTIES:
-:ID:       fd4aea34-db98-4789-825a-8a8b2414ff51
-:END:
-totewuwoh
+[[id:fde244b2-aed8-4785-a5c8-ae3030732e3e][testing onetuww]]
