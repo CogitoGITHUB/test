@@ -1,8 +1,5 @@
 :PROPERTIES:
-:ID:       7391224b-fc34-4a61-8f71-5df3a6f4eb08
+:ID:       c8414cb0-2077-49fc-a6a6-d9e2d06a5a0d
 :END:
 #+title: t1
-
-
-
 
