@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       8673da3c-15ab-40cb-a3e7-36c3c7d8fc32
-:END:
-#+title: s1

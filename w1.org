@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       a9a47d8e-5ea7-46f5-99cf-d9b2ab2b275f
-:END:
-#+title: w1

@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       83a03653-8c42-45c7-9487-be7a5ab5bd68
-:END:
-#+title: a1

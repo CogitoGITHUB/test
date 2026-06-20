@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       87683f12-a76b-4238-977c-11639870bbe5
-:END:
-#+title: n1

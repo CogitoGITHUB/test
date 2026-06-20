@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       7901ecda-016f-458f-8b9f-9aa97228dd10
-:END:
-#+title: d1

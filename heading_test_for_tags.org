@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       e70b88c6-9327-4715-a208-0861660c95ce
-:SOURCE:   3088eba7-81b7-42ba-8244-caf4979acc40
-:END:
-#+title: heading test for tags
-

@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       330097ba-9cce-4747-8223-563e7a5d4e92
-:END:
-#+title: c1

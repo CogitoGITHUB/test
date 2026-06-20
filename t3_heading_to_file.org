@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       9126f66c-6b12-40c5-bb78-76819aae51a5
-:SOURCE:   d5777c4c-10c9-499e-b9ba-d3f2ca279a57
-:END:
-#+title: t3 heading to file
-#+filetags: :tag:
-

@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       63934a4b-6bed-47a0-ba93-ef255d156980
-:END:
-#+title: g1

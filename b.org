@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       e60ce281-0ba8-4418-8801-8376cc221866
-:END:
-#+title: b

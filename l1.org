@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       79ac435e-8c65-4cab-a8ac-5e006513c0be
-:END:
-#+title: l1

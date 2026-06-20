@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       2c441039-ff07-410f-b2b0-a1f27b38ae5a
-:END:
-#+title: k1
