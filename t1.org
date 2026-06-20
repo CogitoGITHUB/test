@@ -9,17 +9,4 @@
 #+filetags: :tag:
 
 
-* headitg test
-:PROPERTIES:
-:ID:       fa2984a9-1062-421f-bacf-1fd36b568718
-:ALIAS:    alias
-:TODO:     TODO
-:PARENT:   e5d67dcf-84ce-4df2-9a43-0c938724898f
-:END:
-
-
-
-
-
-
-
+[[id:18b1e443-f4a1-43a0-af16-e1092b645752][headitg test]]
