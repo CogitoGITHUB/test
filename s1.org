@@ -8,3 +8,10 @@
 #+filetags: :testtags:
 
 
+* tent heading :testtags:
+:PROPERTIES:
+:ID:       c4f03882-0624-4204-9cb8-b627b4a617c6
+:TODO:     TODO
+:PRIORITY: A
+:ALIAS:    aliastest
+:END:
