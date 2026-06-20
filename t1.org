@@ -19,8 +19,4 @@
 :END:
 
 
-* totuhu
-:PROPERTIES:
-:ID:       c14b8b6c-6dc6-4494-91ea-f735aa726656
-:PARENT:   2ce8857e-8241-4bca-8871-4a49bfe0411a
-:END:
+[[id:a202e85f-c275-493a-aefd-cdf38948cdf2][totuhu]]
