@@ -1,12 +1,7 @@
 :PROPERTIES:
-:ID:       e5d67dcf-84ce-4df2-9a43-0c938724898f
-:proprkey: 1
+:ID:       7cf65c13-0f5b-4442-8670-4a0f1c2e1610
 :ALIAS:    alias
-:TODO:     TODO
-:PRIORITY: A
 :END:
 #+title: t1
-#+filetags: :tag:
+#+filetags: :tagtest:
 
-
-[[id:18b1e443-f4a1-43a0-af16-e1092b645752][headitg test]]
