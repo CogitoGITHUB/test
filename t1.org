@@ -10,3 +10,6 @@ Let me also check the my/vulpea--open-capture-for-note call in my/vulpea-find-ad
   ┃  function created it with the body, but the user didn't manually replace it). So the
   ┃  template's (insert "\n") would have made it dirty there too. With my fix, it won't. Good.
   ┃
+
+** Captured excerpt
+
