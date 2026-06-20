@@ -2,3 +2,19 @@
 :ID:       65014d66-2649-4b15-9731-a4d327847ed8
 :END:
 #+title: j
+*
+:PROPERTIES:
+:SOURCE:
+:END:
+
+** Summary
+
+
+** Key Claims
+-
+
+** Implications
+-
+
+** Related
+-
