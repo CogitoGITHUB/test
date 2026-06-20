@@ -1,6 +1,10 @@
 :PROPERTIES:
-:ID:       c8414cb0-2077-49fc-a6a6-d9e2d06a5a0d
+:ID:       adb968bf-289f-4fed-830b-cbde22bcc7bd
+:property: 1
+:ALIAS:    alias
+:TODO:     TODO
+:PRIORITY: A
 :END:
 #+title: t1
-
+#+filetags: :tags:
 
