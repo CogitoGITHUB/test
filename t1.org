@@ -1,15 +1,10 @@
 :PROPERTIES:
-:ID:       adb968bf-289f-4fed-830b-cbde22bcc7bd
-:property: 1
+:ID:       e5d67dcf-84ce-4df2-9a43-0c938724898f
+:proprkey: 1
 :ALIAS:    alias
 :TODO:     TODO
 :PRIORITY: A
 :END:
 #+title: t1
-#+filetags: :tags:
+#+filetags: :tag:
 
-
-
-
-
-[[id:9b6334b9-dcba-46a1-bfb5-131409c69935][tent headitg to file]]
