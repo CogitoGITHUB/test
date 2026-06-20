@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       42b8b21a-0f44-4cdb-8dc4-e92d8a00c80f
+:END:
+#+title: g1
