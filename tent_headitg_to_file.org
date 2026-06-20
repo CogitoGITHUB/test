@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9b6334b9-dcba-46a1-bfb5-131409c69935
+:SOURCE:   5816a2fe-6d16-4df2-9d5a-7dbaa45a0a5e
+:END:
+#+title: tent headitg to file
+
