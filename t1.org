@@ -4,4 +4,9 @@
 #+title: t1
 
 
-
+Let me also check the my/vulpea--open-capture-for-note call in my/vulpea-find-advice to
+  ┃  see if the same issue occurs there. Actually, in my/vulpea-find-advice, the capture is
+  ┃  opened for a newly created note that hasn't been modified (the vulpea-create default
+  ┃  function created it with the body, but the user didn't manually replace it). So the
+  ┃  template's (insert "\n") would have made it dirty there too. With my fix, it won't. Good.
+  ┃
