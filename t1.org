@@ -1,5 +1,7 @@
 :PROPERTIES:
 :ID:       8bbd8211-3b84-4810-940a-4c5e600353aa
+:STATE_CHECKLIST: revi
+:STATE_INTELLIGENCE: unve
 :END:
 #+title: t1
 
