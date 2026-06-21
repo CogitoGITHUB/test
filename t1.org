@@ -4,6 +4,4 @@
 :STATE_INTELLIGENCE: unve
 :END:
 #+title: t1
-
-
   :testtag:
