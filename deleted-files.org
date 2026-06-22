@@ -3,3 +3,72 @@
 #+DESCRIPTION: Auto-generated log of deleted .org files.
 #+STARTUP: overview
 
+
+* [[restore:][MISSING PROMPTS]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  MISSING PROMPTS.org
+  :END:
+
+* [[restore:][t1]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t1.org
+  :DELETED_ID:    c0f972ad-24ae-45e5-87ff-394dad303a25
+  :END:
+
+* [[restore:][t2]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t2.org
+  :DELETED_ID:    4fd8cb42-b2c1-4131-8972-b7cbd70acd14
+  :END:
+
+* [[restore:][t3]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t3.org
+  :DELETED_ID:    0efed6cd-0ebd-4737-a341-8e55a524124a
+  :END:
+
+* [[restore:][t4]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t4.org
+  :DELETED_ID:    ff176ab5-3dfe-4695-a699-f825ce9d5e65
+  :END:
+
+* [[restore:][t5]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t5.org
+  :DELETED_ID:    2eba6f86-5ca3-4885-859c-bdf0568246ba
+  :END:
+
+* [[restore:][t6]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t6.org
+  :DELETED_ID:    67c10eec-56ff-4620-950d-22ccb42442a6
+  :END:
+
+* [[restore:][t7]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t7.org
+  :DELETED_ID:    2df0171e-1cf8-4236-bdbe-f4657f1607c6
+  :END:
+
+* [[restore:][t8]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t8.org
+  :DELETED_ID:    940ff232-22e6-4560-8195-a264803daaf4
+  :END:
+
+* [[restore:][t9]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t9.org
+  :DELETED_ID:    c1144c29-8e4d-4cce-8608-83a2a31d208d
+  :END:
