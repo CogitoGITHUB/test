@@ -1,4 +1,4 @@
-* WAIT test                                                      :tagstest:
+* WAIT [#A] test                                                 :tagstest:
 :PROPERTIES:
 :ID:       7d5bcdbb-6e4c-4cdb-a9b7-cce6d890fffb
 :STATE_WORK: ACTIVE
