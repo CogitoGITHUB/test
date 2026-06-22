@@ -3,3 +3,17 @@
 #+DESCRIPTION: Auto-generated log of deleted .org files.
 #+STARTUP: overview
 
+
+* [[restore:][t1]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t1.org
+  :DELETED_ID:    e7c0c125-55cd-4eb4-b398-237ee5f60c41
+  :END:
+
+* [[restore:][t2]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-22 Mon>
+  :DELETED_FILE:  t2.org
+  :DELETED_ID:    0d0c1965-5401-4a44-ad55-e1eb451b0464
+  :END:
