@@ -1,7 +1,16 @@
+* t1   :tagtest:moretagtest:
 :PROPERTIES:
-:ID:       8bbd8211-3b84-4810-940a-4c5e600353aa
-:STATE_CHECKLIST: revi
-:STATE_INTELLIGENCE: unve
+:ID:       0d35d641-51f1-468f-8602-c2d0f2ee4b16
+:STATE_WORK: ac
+:STATE_VALIDATION: dr
+:STATE_SOURCE: un
+:STATE_OPERATIONAL: in
+:STATE_INTELLIGENCE: un
+:STATE_GENERAL: co
+:STATE_DEPENDENCY: wa
+:STATE_CHECKLIST: ma
+:TODO:     TODO
+:propertytest: 100
+:PRIORITY: A
+:ALIAS:    aliastest
 :END:
-#+title: t1
-  :testtag:
