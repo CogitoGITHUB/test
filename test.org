@@ -1,4 +1,4 @@
-* WAIT [#A] test                                                 :tagstest:
+* WAIT [#A] test                                                 :agstest:
 :PROPERTIES:
 :ID:       7d5bcdbb-6e4c-4cdb-a9b7-cce6d890fffb
 :STATE_VALIDATION: DRAFT
@@ -9,7 +9,7 @@
 :STATE_DEPENDENCY: WAITING
 :STATE_CHECKLIST: MASTERED
 :propertytest: 1
-:1:        
+:1:
 :PRIORITY: A
 :ALIAS:    aliastest
 :END:
