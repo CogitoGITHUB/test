@@ -3,21 +3,3 @@
 #+DESCRIPTION: Auto-generated log of deleted .org files.
 #+STARTUP: overview
 
-
-* [[restore:][MISSING PROMPTS]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-22 Mon>
-  :DELETED_FILE:  MISSING PROMPTS.org
-  :END:
-
-* [[restore:][MISSING PROMPTS]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-22 Mon>
-  :DELETED_FILE:  MISSING PROMPTS.org
-  :END:
-
-* [[restore:][MISSING PROMPTS]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-22 Mon>
-  :DELETED_FILE:  MISSING PROMPTS.org
-  :END:
