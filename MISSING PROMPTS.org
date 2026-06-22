@@ -4,7 +4,7 @@
 #+STARTUP: overview
 
 
-* TODO [[id:9b5d3eb0-caa4-4a48-93c2-6ccc5b367693][WARNING t1]] — STATE_WOR
+* TODO [[id:9b5d3eb0-caa4-4a48-93c2-6ccc5b367693][WARNING t1]] — STATE_WORK
   :PROPERTIES:
   :ENTRY_ID:  9b5d3eb0-caa4-4a48-93c2-6ccc5b367693-STATE_WORK
   :NOTE_ID:   9b5d3eb0-caa4-4a48-93c2-6ccc5b367693
