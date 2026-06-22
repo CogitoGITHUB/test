@@ -3,24 +3,3 @@
 #+DESCRIPTION: Auto-generated log of deleted .org files.
 #+STARTUP: overview
 
-
-* [[restore:][t1]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-22 Mon>
-  :DELETED_FILE:  testing/t1.org
-  :DELETED_ID:    67c3e958-a52c-4146-8422-ba4a5cd52d66
-  :END:
-
-* [[restore:][testing1]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-22 Mon>
-  :DELETED_FILE:  testing/testing1.org
-  :DELETED_ID:    5526861b-2a4d-4b2c-a682-ceebe7560eb9
-  :END:
-
-* [[restore:][test]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-22 Mon>
-  :DELETED_FILE:  test.org
-  :DELETED_ID:    7d5bcdbb-6e4c-4cdb-a9b7-cce6d890fffb
-  :END:
