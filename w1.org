@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       c8981c36-628f-4cee-b128-82d92614603d
-:END:
-#+title: w1

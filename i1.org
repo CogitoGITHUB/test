@@ -1,4 +1,0 @@
-:PROPERTIES:
-:ID:       a7174f17-0947-48e1-b3a2-2b579f1d2160
-:END:
-#+title: i1
