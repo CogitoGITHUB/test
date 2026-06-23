@@ -1,6 +1,6 @@
 * WARNING t2
 :PROPERTIES:
-:ID:       a1d9e143-9775-4d38-9d32-95032adf231f
+:ID:       5a8dea71-18b6-4f97-9c25-29a8d1dfde17
 :STATE_WORK: WARNING
 :STATE_VALIDATION: WARNING
 :STATE_SOURCE: WARNING
@@ -12,9 +12,3 @@
 :TAG:      WARNING
 :PRIORITY: WARNING
 :END:
-
-
-testing more 
-testing some more 
-even more 
-some more tosting
