@@ -16,10 +16,10 @@
 #+transclude: [[id:a1d9e143-9775-4d38-9d32-95032adf231f][WARNING t2]]
 
 
-#+transclude: [[id:a1d9e143-9775-4d38-9d32-95032adf231f][WARNING t2]] :level 
+#+transclude: [[id:a1d9e143-9775-4d38-9d32-95032adf231f][WARevel 
 
 
-#+transclude: [[id:a1d9e143-9775-4d38-9d32-95032adf231f][WARNING t2]] :level 2
+#+transclude: [[id:a1d9e143-9775-4d38-9d32-95032adf231f][WARNING t2]] :level 2#+transclude: [[id:a1d9e143-9775-4d38-9d32-95032adf231f][WARNING t2]] :level 2
 
 
 
