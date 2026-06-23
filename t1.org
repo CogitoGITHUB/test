@@ -13,5 +13,3 @@
 :PRIORITY: WARNING
 :END:
 
-#+transclude: [[file:/home/aoeu/test/t2.org::*WARNING t2][WARNING t2]] :level 2
-
