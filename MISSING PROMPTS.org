@@ -3,5 +3,5 @@
 #+DESCRIPTION: Auto-generated - notes with unanswered state prompts.
 #+STARTUP: overview
 
-* TODO [[id:bcc4dfff-5dfd-43ce-8946-52e1a9a2891e][WARNING t1]]
 * TODO [[id:5a8dea71-18b6-4f97-9c25-29a8d1dfde17][WARNING t2]]
+* TODO [[id:bcc4dfff-5dfd-43ce-8946-52e1a9a2891e][WARNING t1]]
