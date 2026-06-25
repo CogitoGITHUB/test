@@ -4,9 +4,3 @@
 #+STARTUP: overview
 
 
-* TODO [[restore:][t2]]
-  :PROPERTIES:
-  :CREATED:       <2026-06-25 Thu>
-  :DELETED_FILE:  t2.org
-  :DELETED_ID:    5a8dea71-18b6-4f97-9c25-29a8d1dfde17
-  :END:
