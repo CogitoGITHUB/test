@@ -1,0 +1,12 @@
+#+TITLE: Deleted Files
+#+AUTHOR: Shape
+#+DESCRIPTION: Auto-generated log of deleted .org files.
+#+STARTUP: overview
+
+
+* TODO [[restore:][t1]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-29 Mon>
+  :DELETED_FILE:  t1.org
+  :DELETED_ID:    bcc4dfff-5dfd-43ce-8946-52e1a9a2891e
+  :END:
