@@ -12,3 +12,12 @@
   :DELETED_ID:    144f2a64-8c13-4861-a47d-6f9550420945
   :END:
   [[elisp:(my/vulpea-links-restore)][Restore from Git]]
+
+* TODO Fix broken link in [[file:/home/aoeu/test/t1.org::*WARNING t2][WARNING t2]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-29 Mon>
+  :DIRECTION:     incoming
+  :DELETED_NOTE:  t4
+  :DELETED_ID:    144f2a64-8c13-4861-a47d-6f9550420945
+  :END:
+  [[elisp:(my/vulpea-links-restore)][Restore from Git]]
