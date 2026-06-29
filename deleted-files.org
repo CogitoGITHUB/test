@@ -31,3 +31,10 @@
   :DELETED_FILE:  t4.org
   :DELETED_ID:    144f2a64-8c13-4861-a47d-6f9550420945
   :END:
+
+* TODO [[restore:][t5]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-29 Mon>
+  :DELETED_FILE:  t5.org
+  :DELETED_ID:    09b663ad-ff88-4583-8152-9c5c1e32d1d9
+  :END:
