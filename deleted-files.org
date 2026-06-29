@@ -17,3 +17,10 @@
   :DELETED_FILE:  t2.org
   :DELETED_ID:    5a8dea71-18b6-4f97-9c25-29a8d1dfde17
   :END:
+
+* TODO [[restore:][t3]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-29 Mon>
+  :DELETED_FILE:  t3.org
+  :DELETED_ID:    a54a58d9-eb65-4515-979d-9deb62116f03
+  :END:
