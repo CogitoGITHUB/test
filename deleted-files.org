@@ -52,3 +52,10 @@
   :DELETED_FILE:  t7.org
   :DELETED_ID:    395eec5b-4435-4dcd-9efc-bbea8fefb0e8
   :END:
+
+* TODO [[restore:][t9]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-29 Mon>
+  :DELETED_FILE:  t9.org
+  :DELETED_ID:    6b9ea65e-9852-4077-ab2b-29352d44c70a
+  :END:
