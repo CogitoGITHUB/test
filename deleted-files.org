@@ -24,3 +24,10 @@
   :DELETED_FILE:  t3.org
   :DELETED_ID:    a54a58d9-eb65-4515-979d-9deb62116f03
   :END:
+
+* TODO [[restore:][t4]]
+  :PROPERTIES:
+  :CREATED:       <2026-06-29 Mon>
+  :DELETED_FILE:  t4.org
+  :DELETED_ID:    144f2a64-8c13-4861-a47d-6f9550420945
+  :END:
