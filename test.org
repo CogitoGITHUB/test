@@ -1,6 +1,6 @@
-* [#A] WARNING t4                                                     :tagtest:
+* WARNING test
 :PROPERTIES:
-:ID:       db5ed645-b9ca-4378-af7f-699548083222
+:ID:       238a2fe1-85b3-49ef-86c3-c6d7df2bbea4
 :STATE_WORK: WARNING
 :STATE_VALIDATION: WARNING
 :STATE_SOURCE: WARNING
@@ -9,7 +9,6 @@
 :STATE_GENERAL: WARNING
 :STATE_DEPENDENCY: WARNING
 :STATE_CHECKLIST: WARNING
-:TAG:      WARNING
 :PRIORITY: WARNING
-:ALIAS:    aliastest
+:TEMPLATE: task
 :END:
