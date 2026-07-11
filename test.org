@@ -16,9 +16,9 @@
 #+title:      Task body skeleton
 #+priority:   1
 
-*
+* test
 ** Objective
-- [ ]
+- [ ] testing
 
 ** Notes
--
+- need schema test
