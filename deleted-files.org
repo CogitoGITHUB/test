@@ -10,3 +10,10 @@
   :DELETED_FILE:  testing.org
   :DELETED_ID:    3336d5fb-2f79-4297-bfba-0bc6086d16fc
   :END:
+
+* TODO [[restore:][Task body skeleton]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-11 Sat>
+  :DELETED_FILE:  test.org
+  :DELETED_ID:    238a2fe1-85b3-49ef-86c3-c6d7df2bbea4
+  :END:
