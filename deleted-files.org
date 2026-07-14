@@ -111,3 +111,9 @@
   :CREATED:       <2026-07-14 Tue>
   :DELETED_FILE:  Quotes.org
   :END:
+
+* TODO [[restore:][Rules]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  Rules.org
+  :END:
