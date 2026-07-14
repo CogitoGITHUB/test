@@ -33,3 +33,9 @@
   :CREATED:       <2026-07-14 Tue>
   :DELETED_FILE:  Counters.org
   :END:
+
+* TODO [[restore:][Decisions]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  Decisions.org
+  :END:
