@@ -135,3 +135,9 @@
   :CREATED:       <2026-07-14 Tue>
   :DELETED_FILE:  Sources.org
   :END:
+
+* TODO [[restore:][State]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  State.org
+  :END:
