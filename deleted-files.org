@@ -153,3 +153,9 @@
   :CREATED:       <2026-07-14 Tue>
   :DELETED_FILE:  TODO.org
   :END:
+
+* TODO [[restore:][TrapsExternal]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  TrapsExternal.org
+  :END:
