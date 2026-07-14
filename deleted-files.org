@@ -39,3 +39,9 @@
   :CREATED:       <2026-07-14 Tue>
   :DELETED_FILE:  Decisions.org
   :END:
+
+* TODO [[restore:][Evidence]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  Evidence.org
+  :END:
