@@ -105,3 +105,9 @@
   :CREATED:       <2026-07-14 Tue>
   :DELETED_FILE:  Philosophy.org
   :END:
+
+* TODO [[restore:][Quotes]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  Quotes.org
+  :END:
