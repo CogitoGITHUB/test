@@ -4,9 +4,8 @@
 #+STARTUP: overview
 
 
-* TODO [[restore:][test]]
+* TODO [[restore:][Advantages]]
   :PROPERTIES:
-  :CREATED:       <2026-07-11 Sat>
-  :DELETED_FILE:  test.org
-  :DELETED_ID:    dc3913f7-b473-4633-b821-aa89e31ffb94
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  Advantages.org
   :END:
