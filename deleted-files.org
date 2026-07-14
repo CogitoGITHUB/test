@@ -87,3 +87,9 @@
   :CREATED:       <2026-07-14 Tue>
   :DELETED_FILE:  Map.org
   :END:
+
+* TODO [[restore:][Mastery]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-14 Tue>
+  :DELETED_FILE:  Mastery.org
+  :END:
