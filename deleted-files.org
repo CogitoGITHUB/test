@@ -57,3 +57,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Failures.org
   :END:
+
+* TODO [[restore:][Hypotheses]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Hypotheses.org
+  :END:
