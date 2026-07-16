@@ -129,3 +129,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Signals.org
   :END:
+
+* TODO [[restore:][Sources]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Sources.org
+  :END:
