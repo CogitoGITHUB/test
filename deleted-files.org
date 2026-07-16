@@ -1,0 +1,11 @@
+#+TITLE: Deleted Files
+#+AUTHOR: Shape
+#+DESCRIPTION: Auto-generated log of deleted .org files.
+#+STARTUP: overview
+
+
+* TODO [[restore:][Advantages]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Advantages.org
+  :END:
