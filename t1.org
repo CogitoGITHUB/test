@@ -13,7 +13,7 @@
 :END:
 
 
-** t1.1 :tag-warning:
+** t1.1 :tag-warning:                                      :universal:drill:
 :PROPERTIES:
 :ID:       ebdf6c44-130f-47fb-8dae-8d825ff52123
 :STATE_WORK: WARNING
@@ -25,6 +25,9 @@
 :STATE_DEPENDENCY: WARNING
 :STATE_CHECKLIST: WARNING
 :PRIORITY: WARNING
+:RULE:     t
+:RULE_FILE: testig-rules
+:DRILL_CARD_TYPE: simple
 :END:
 
 
