@@ -69,3 +69,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  ../.config/jj/State.org
   :END:
+
+* TODO [[restore:][TODO]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  ../.config/jj/TODO.org
+  :END:
