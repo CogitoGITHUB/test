@@ -123,3 +123,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  ShapeShifter.org
   :END:
+
+* TODO [[restore:][Signals]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Signals.org
+  :END:
