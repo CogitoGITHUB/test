@@ -39,3 +39,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  ../.config/jj/Laws.org
   :END:
+
+* TODO [[restore:][Philosophy]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  ../.config/jj/Philosophy.org
+  :END:
