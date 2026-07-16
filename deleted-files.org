@@ -165,3 +165,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Leverage.org
   :END:
+
+* TODO [[restore:][Map]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Map.org
+  :END:
