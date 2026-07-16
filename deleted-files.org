@@ -237,3 +237,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Timing.org
   :END:
+
+* TODO [[restore:][TrapsExternal]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  TrapsExternal.org
+  :END:
