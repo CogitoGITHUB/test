@@ -147,3 +147,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  TODO.org
   :END:
+
+* TODO [[restore:][Timing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Timing.org
+  :END:
