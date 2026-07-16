@@ -105,3 +105,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Blueprint.org
   :END:
+
+* TODO [[restore:][Context]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Context.org
+  :END:
