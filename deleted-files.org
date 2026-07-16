@@ -27,3 +27,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Context.org
   :END:
+
+* TODO [[restore:][Counters]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Counters.org
+  :END:
