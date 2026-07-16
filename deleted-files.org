@@ -117,3 +117,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Rules.org
   :END:
+
+* TODO [[restore:][ShapeShifter]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  ShapeShifter.org
+  :END:
