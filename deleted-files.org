@@ -9,3 +9,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  ../.config/jj/Advantages.org
   :END:
+
+* TODO [[restore:][Agents]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  ../.config/jj/Agents.org
+  :END:
