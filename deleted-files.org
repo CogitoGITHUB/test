@@ -21,3 +21,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  ../.config/jj/Blueprint.org
   :END:
+
+* TODO [[restore:][Context]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  ../.config/jj/Context.org
+  :END:
