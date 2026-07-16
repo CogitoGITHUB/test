@@ -147,3 +147,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Hypotheses.org
   :END:
+
+* TODO [[restore:][Journal]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Journal.org
+  :END:
