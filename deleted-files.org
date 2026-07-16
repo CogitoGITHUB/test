@@ -45,3 +45,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  ../.config/jj/Philosophy.org
   :END:
+
+* TODO [[restore:][Principles]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  ../.config/jj/Principles.org
+  :END:
