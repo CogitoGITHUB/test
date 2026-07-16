@@ -33,3 +33,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  ../.config/jj/Journal.org
   :END:
+
+* TODO [[restore:][Laws]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  ../.config/jj/Laws.org
+  :END:
