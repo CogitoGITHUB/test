@@ -177,3 +177,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Mastery.org
   :END:
+
+* TODO [[restore:][Objectives]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Objectives.org
+  :END:
