@@ -243,3 +243,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  TrapsExternal.org
   :END:
+
+* TODO [[restore:][TrapsInternal]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  TrapsInternal.org
+  :END:
