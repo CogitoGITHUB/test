@@ -15,3 +15,9 @@
   :CREATED:       <2026-07-16 Thu>
   :DELETED_FILE:  Agents.org
   :END:
+
+* TODO [[restore:][Blueprint]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-16 Thu>
+  :DELETED_FILE:  Blueprint.org
+  :END:
