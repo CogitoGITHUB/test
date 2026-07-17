@@ -8,5 +8,5 @@
   :PROPERTIES:
   :CREATED:       <2026-07-17 Fri>
   :DELETED_FILE:  test.org
-  :DELETED_ID:    07830001-a770-484f-8b50-9a3a333e8860
+  :DELETED_ID:    3a2e21ac-d98c-413a-a412-da7ce711137b
   :END:
