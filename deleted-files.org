@@ -4,9 +4,3 @@
 #+STARTUP: overview
 
 
-* TODO [[restore:][test]]
-  :PROPERTIES:
-  :CREATED:       <2026-07-17 Fri>
-  :DELETED_FILE:  test.org
-  :DELETED_ID:    3a2e21ac-d98c-413a-a412-da7ce711137b
-  :END:
