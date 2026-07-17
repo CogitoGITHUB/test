@@ -1,6 +1,0 @@
-#+TITLE: Deleted Files
-#+AUTHOR: Shape
-#+DESCRIPTION: Auto-generated log of deleted .org files.
-#+STARTUP: overview
-
-
