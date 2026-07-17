@@ -1,4 +1,4 @@
-* WARNING test   :tag-warning:
+* WARNING test   :tag-warning:                              :universal:drill:
 :PROPERTIES:
 :ID:       05ba7d29-a04d-40b7-9884-bd7f420c459e
 :STATE_WORK: WARNING
@@ -10,4 +10,6 @@
 :STATE_DEPENDENCY: WARNING
 :STATE_CHECKLIST: WARNING
 :PRIORITY: WARNING
+:RULE:     t
+:DRILL_CARD_TYPE: simple
 :END:
