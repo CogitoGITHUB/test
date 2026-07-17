@@ -11,7 +11,7 @@
 :STATE_CHECKLIST: WARNING
 :PRIORITY: WARNING
 :END:
-** testing :tag-warning:
+** testing :tag-warning:                                   :universal:drill:
 :PROPERTIES:
 :ID:       3c423218-7c2d-4898-b6cc-bc8edc093ef0
 :STATE_WORK: WARNING
@@ -24,5 +24,8 @@
 :STATE_CHECKLIST: WARNING
 :PRIORITY: WARNING
 :SOURCE:   0efb33cf-bb02-44ce-a3c3-b135670772d7
+:RULE:     t
+:RULE_FILE: testing rules file
+:DRILL_CARD_TYPE: simple
 :END:
 
