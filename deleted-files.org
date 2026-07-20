@@ -4,44 +4,9 @@
 #+STARTUP: overview
 
 
-* TODO [[restore:][test]]
+* TODO [[restore:][tester]]
   :PROPERTIES:
   :CREATED:       <2026-07-20 Mon>
-  :DELETED_FILE:  test.org
-  :DELETED_ID:    9f2e9a8f-3d10-4b7e-b894-9dff6af06790
-  :END:
-
-* TODO [[restore:][testing]]
-  :PROPERTIES:
-  :CREATED:       <2026-07-20 Mon>
-  :DELETED_FILE:  testing.org
-  :DELETED_ID:    70b95be3-3970-4363-8abf-0975e0626220
-  :END:
-
-* TODO [[restore:][20260720113807_test]]
-  :PROPERTIES:
-  :CREATED:       <2026-07-20 Mon>
-  :DELETED_FILE:  20260720113807_test.org
-  :DELETED_ID:    5046bf12-f71b-47dd-9eb6-a5c84968bd32
-  :END:
-
-* TODO [[restore:][20260720114927_testing]]
-  :PROPERTIES:
-  :CREATED:       <2026-07-20 Mon>
-  :DELETED_FILE:  20260720114927_testing.org
-  :DELETED_ID:    12e401b2-9e9e-4923-afae-92c1de61780a
-  :END:
-
-* TODO [[restore:][20260720121448_aoeu]]
-  :PROPERTIES:
-  :CREATED:       <2026-07-20 Mon>
-  :DELETED_FILE:  20260720121448_aoeu.org
-  :DELETED_ID:    f02b9672-2908-40f2-860f-3a97a284e852
-  :END:
-
-* TODO [[restore:][20260720121510_new_test]]
-  :PROPERTIES:
-  :CREATED:       <2026-07-20 Mon>
-  :DELETED_FILE:  20260720121510_new_test.org
-  :DELETED_ID:    713a0b15-16c7-428a-99b7-4f90ecc1f383
+  :DELETED_FILE:  tester.org
+  :DELETED_ID:    fcf3ecbd-a4a7-4b09-a9c1-ad3e08536603
   :END:
