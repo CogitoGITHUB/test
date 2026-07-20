@@ -10,3 +10,10 @@
   :DELETED_FILE:  mkwkwk.org
   :DELETED_ID:    919844a5-3312-48c8-a20b-0efd467aa454
   :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  testing.org
+  :DELETED_ID:    abe9f109-4a07-44e7-974b-e52582622efe
+  :END:
