@@ -10,3 +10,10 @@
   :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("SET-ME"); Field "STATE_GENERAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_VALIDATION" value "WARNING" is not one of ("SET-ME"); Field "STATE_SOURCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("SET-ME"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("SET-ME")
   :END:
 
+* TODO [[id:cb9d63b9-0381-4fed-a4e5-60ba38be91af][WARNING notewwe   :tag-warning:]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("SET-ME"); Field "STATE_GENERAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_VALIDATION" value "WARNING" is not one of ("SET-ME"); Field "STATE_SOURCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("SET-ME"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("SET-ME")
+  :END:
+
