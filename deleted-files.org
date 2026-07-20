@@ -24,3 +24,10 @@
   :DELETED_FILE:  20260720132700_voehetto.org
   :DELETED_ID:    6cbda3e5-3d99-4510-8afa-783f13f60495
   :END:
+
+* TODO [[restore:][wjwjwowjw]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  wjwjwowjw.org
+  :DELETED_ID:    0c029d00-673c-47bb-be04-932682a99292
+  :END:
