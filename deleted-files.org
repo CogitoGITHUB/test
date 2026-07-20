@@ -10,3 +10,10 @@
   :DELETED_FILE:  test.org
   :DELETED_ID:    9f2e9a8f-3d10-4b7e-b894-9dff6af06790
   :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  testing.org
+  :DELETED_ID:    70b95be3-3970-4363-8abf-0975e0626220
+  :END:
