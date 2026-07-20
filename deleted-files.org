@@ -17,3 +17,10 @@
   :DELETED_FILE:  20260720125550_notewwe.org
   :DELETED_ID:    cb9d63b9-0381-4fed-a4e5-60ba38be91af
   :END:
+
+* TODO [[restore:][20260720132700_voehetto]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  20260720132700_voehetto.org
+  :DELETED_ID:    6cbda3e5-3d99-4510-8afa-783f13f60495
+  :END:
