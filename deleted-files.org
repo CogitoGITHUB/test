@@ -10,3 +10,10 @@
   :DELETED_FILE:  20260720122309_test.org
   :DELETED_ID:    194ba83a-e9cf-489d-9ffc-c760415d8dd8
   :END:
+
+* TODO [[restore:][20260720125550_notewwe]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  20260720125550_notewwe.org
+  :DELETED_ID:    cb9d63b9-0381-4fed-a4e5-60ba38be91af
+  :END:
