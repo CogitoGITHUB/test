@@ -24,3 +24,10 @@
   :DELETED_FILE:  20260720113807_test.org
   :DELETED_ID:    5046bf12-f71b-47dd-9eb6-a5c84968bd32
   :END:
+
+* TODO [[restore:][20260720114927_testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  20260720114927_testing.org
+  :DELETED_ID:    12e401b2-9e9e-4923-afae-92c1de61780a
+  :END:
