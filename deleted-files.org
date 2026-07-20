@@ -17,3 +17,10 @@
   :DELETED_FILE:  testing.org
   :DELETED_ID:    abe9f109-4a07-44e7-974b-e52582622efe
   :END:
+
+* TODO [[restore:][wjwjwwjwjw]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  wjwjwwjwjw.org
+  :DELETED_ID:    8ef4be49-13a0-48e0-9943-4ad3ce405051
+  :END:
