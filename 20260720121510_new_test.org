@@ -13,3 +13,25 @@
 :TEMPLATE: math
 :TEMPLATE_HASH: 5492703003575a3fd45ae87754bd41bfe828175c44e3245fef7fa389c377fc0c
 :END:
+** Definition
+\begin{definition}
+
+\end{definition}
+
+** Theorem
+\begin{theorem}
+\end{theorem}
+
+** Lemma
+\begin{lemma}
+\end{lemma}
+
+** Proof
+\begin{proof}
+\end{proof}
+
+** Properties
+-
+
+** Notes
+-
