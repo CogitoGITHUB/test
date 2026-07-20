@@ -165,3 +165,10 @@
   :CREATED:       <2026-07-20 Mon>
   :DELETED_FILE:  TrapsInternal.org
   :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-20 Mon>
+  :DELETED_FILE:  testing.org
+  :DELETED_ID:    79f93adb-e084-4770-b0ad-6e27df8e38b9
+  :END:
