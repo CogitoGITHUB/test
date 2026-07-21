@@ -1,4 +1,0 @@
-* testing
-:PROPERTIES:
-:ID:       79f93adb-e084-4770-b0ad-6e27df8e38b9
-:END:
