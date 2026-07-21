@@ -10,3 +10,10 @@
   :DELETED_FILE:  aoeu.org
   :DELETED_ID:    b455a7e4-6e13-4f15-9a25-dd91ac618f63
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-21 Tue>
+  :DELETED_FILE:  test.org
+  :DELETED_ID:    624ea8b6-360d-46f2-99cf-1b890f8204ee
+  :END:
