@@ -17,3 +17,10 @@
   :DELETED_FILE:  test.org
   :DELETED_ID:    624ea8b6-360d-46f2-99cf-1b890f8204ee
   :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-21 Tue>
+  :DELETED_FILE:  testing.org
+  :DELETED_ID:    0d6b2f90-b55c-465c-adac-ca3c6048bc9f
+  :END:
