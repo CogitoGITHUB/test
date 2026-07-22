@@ -11,6 +11,9 @@
 :STATE_CHECKLIST: WARNING
 :PRIORITY: WARNING
 :END:
+:LOGBOOK:
+CLOCK: [2026-07-22 Wed 18:31]--[2026-07-22 Wed 18:31] =>  0:00
+:END:
 
 
 
@@ -28,3 +31,5 @@ wwwww
 
 
 wkwumwewo
+
+
