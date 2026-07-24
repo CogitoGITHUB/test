@@ -1,0 +1,11 @@
+* testing   :vocab:
+:PROPERTIES:
+:ID:       1191e4ec-6de1-4734-a03e-f145898ffa7d
+:POS:      ⚠ WARNING
+:SOURCE:   
+:ADDED:    [2026-07-24]
+:END:
+
+* testing :drill:
+
+  (edit: put the answer/definition here, hidden by the heading fold)
