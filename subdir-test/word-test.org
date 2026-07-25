@@ -1,6 +1,6 @@
-* WARNING test   :dictionary:test:test-dir:tag-warning:
+* WARNING word-test   :dictionary:word-test:subdir-test:tag-warning:
 :PROPERTIES:
-:ID:       419efe68-0d24-416c-a45a-b25992246a8f
+:ID:       379b8582-b345-4eb5-96b0-a108290ca025
 :ADDED:    [2026-07-25]
 :STATE_WORK: WARNING
 :STATE_VALIDATION: WARNING
