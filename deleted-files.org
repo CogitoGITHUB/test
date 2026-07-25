@@ -220,3 +220,10 @@
   :DELETED_FILE:  vocab/jwhucuc.org
   :DELETED_ID:    0de16ae1-9bdd-4853-8cb5-b376a9f57c31
   :END:
+
+* TODO [[restore:][more]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/more.org
+  :DELETED_ID:    2cbf53f1-f1a5-4931-85e1-ca5418bd9ccf
+  :END:

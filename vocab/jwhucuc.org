@@ -1,8 +1,0 @@
-* jwhucuc   :vocab:
-:PROPERTIES:
-:ID:       0de16ae1-9bdd-4853-8cb5-b376a9f57c31
-:POS:      ⚠ WARNING
-:SOURCE:
-:ADDED:    [2026-07-25]
-:END:
-
