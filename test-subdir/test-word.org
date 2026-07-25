@@ -1,6 +1,6 @@
-* WARNING test   :dictionary:test:testing-subdir:tag-warning:
+* WARNING test-word   :dictionary:test-word:test-subdir:tag-warning:
 :PROPERTIES:
-:ID:       7e62f9ff-7353-4c1e-a29d-a62513eb34fb
+:ID:       7ad52fe3-d67b-4621-81ad-b74365c98e3d
 :ADDED:    [2026-07-25]
 :STATE_WORK: WARNING
 :STATE_VALIDATION: WARNING
