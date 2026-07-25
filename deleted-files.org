@@ -241,3 +241,10 @@
   :DELETED_FILE:  vocab/random.org
   :DELETED_ID:    2dbf9a46-4313-48ab-b444-52e14136186b
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/test.org
+  :DELETED_ID:    6d0e724e-fc20-4170-b5a1-e466d0f8237f
+  :END:
