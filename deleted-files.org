@@ -179,3 +179,9 @@
   :DELETED_FILE:  aoeuijkxb.org
   :DELETED_ID:    1c5c5870-5f91-4110-b944-981444ba824d
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  test.org
+  :END:
