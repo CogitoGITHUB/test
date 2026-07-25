@@ -213,3 +213,10 @@
   :DELETED_FILE:  vocab/htns.org
   :DELETED_ID:    ea70cce4-6c8e-4ba9-9195-b3285c4bd07b
   :END:
+
+* TODO [[restore:][jwhucuc]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/jwhucuc.org
+  :DELETED_ID:    0de16ae1-9bdd-4853-8cb5-b376a9f57c31
+  :END:
