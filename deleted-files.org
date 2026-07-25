@@ -69,3 +69,9 @@
   :CREATED:       <2026-07-25 Sat>
   :DELETED_FILE:  Journal.org
   :END:
+
+* TODO [[restore:][Laws]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  Laws.org
+  :END:
