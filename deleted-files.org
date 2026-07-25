@@ -262,3 +262,10 @@
   :DELETED_FILE:  vocab/testword.org
   :DELETED_ID:    ad236feb-bb3f-48c3-a66d-1ed793e8a7ac
   :END:
+
+* TODO [[restore:][totetut]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/totetut.org
+  :DELETED_ID:    a3b370cd-132d-4370-9f39-5030e75b7130
+  :END:
