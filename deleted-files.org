@@ -248,3 +248,10 @@
   :DELETED_FILE:  vocab/test.org
   :DELETED_ID:    6d0e724e-fc20-4170-b5a1-e466d0f8237f
   :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/testing.org
+  :DELETED_ID:    1191e4ec-6de1-4734-a03e-f145898ffa7d
+  :END:
