@@ -1,0 +1,7 @@
+* mwwv   :vocab:
+:PROPERTIES:
+:ID:       6ec87d93-7914-48c2-bb6e-244fcfff7aad
+:POS:      ⚠ WARNING
+:SOURCE:   
+:ADDED:    [2026-07-25]
+:END:
