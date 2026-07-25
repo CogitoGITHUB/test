@@ -255,3 +255,10 @@
   :DELETED_FILE:  vocab/testing.org
   :DELETED_ID:    1191e4ec-6de1-4734-a03e-f145898ffa7d
   :END:
+
+* TODO [[restore:][testword]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/testword.org
+  :DELETED_ID:    ad236feb-bb3f-48c3-a66d-1ed793e8a7ac
+  :END:
