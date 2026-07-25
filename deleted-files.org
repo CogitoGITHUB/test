@@ -199,3 +199,10 @@
   :DELETED_FILE:  tttttetottot.org
   :DELETED_ID:    7726bd23-95a0-4307-9e7b-053a62d5d7d9
   :END:
+
+* TODO [[restore:][aoeu]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/aoeu.org
+  :DELETED_ID:    d489b19c-40d5-4e84-a270-9ce1d9b70244
+  :END:
