@@ -234,3 +234,10 @@
   :DELETED_FILE:  vocab/mwwv.org
   :DELETED_ID:    6ec87d93-7914-48c2-bb6e-244fcfff7aad
   :END:
+
+* TODO [[restore:][random]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/random.org
+  :DELETED_ID:    2dbf9a46-4313-48ab-b444-52e14136186b
+  :END:
