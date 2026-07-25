@@ -1,0 +1,8 @@
+* WARNING totetut   :vocab:
+:PROPERTIES:
+:ID:       a3b370cd-132d-4370-9f39-5030e75b7130
+:POS:      ⚠ WARNING
+:SOURCE:
+:ADDED:    [2026-07-25]
+:END:
+
