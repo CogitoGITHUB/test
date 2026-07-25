@@ -269,3 +269,10 @@
   :DELETED_FILE:  vocab/totetut.org
   :DELETED_ID:    a3b370cd-132d-4370-9f39-5030e75b7130
   :END:
+
+* TODO [[restore:][wowet]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  vocab/wowet.org
+  :DELETED_ID:    f810f48f-81b4-4dc2-959f-438cf7cb4da8
+  :END:
