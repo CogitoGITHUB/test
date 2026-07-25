@@ -1,0 +1,12 @@
+#+TITLE: Deleted Files
+#+AUTHOR: Shape
+#+DESCRIPTION: Auto-generated log of deleted .org files.
+#+STARTUP: overview
+
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  test-dir/test.org
+  :DELETED_ID:    419efe68-0d24-416c-a45a-b25992246a8f
+  :END:
