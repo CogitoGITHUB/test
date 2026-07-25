@@ -185,3 +185,10 @@
   :CREATED:       <2026-07-25 Sat>
   :DELETED_FILE:  test.org
   :END:
+
+* TODO [[restore:][totuthowuw]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-25 Sat>
+  :DELETED_FILE:  totuthowuw.org
+  :DELETED_ID:    ba523b7b-78b4-45aa-a42e-c6b64fbd63f3
+  :END:
