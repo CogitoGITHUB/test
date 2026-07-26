@@ -5,14 +5,21 @@
 
 * TODO [[id:cbe1d257-396c-42a7-9282-4ba4c404a5da][WARNING test-word   :dictionary:test-word:test-subdir:tag-warning:]]
   :PROPERTIES:
-  :CREATED:       <2026-07-25 Sat>
+  :CREATED:       <2026-07-26 Sun>
   :SCHEMAS:       base
   :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("SET-ME"); Field "STATE_GENERAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_VALIDATION" value "WARNING" is not one of ("SET-ME"); Field "STATE_SOURCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("SET-ME"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("SET-ME")
   :END:
 
 * TODO [[id:9522fda9-2e6b-4522-bc28-b53819d1f88f][WARNING new-test   :dictionary:new-test:tag-warning:]]
   :PROPERTIES:
-  :CREATED:       <2026-07-25 Sat>
+  :CREATED:       <2026-07-26 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("SET-ME"); Field "STATE_GENERAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_VALIDATION" value "WARNING" is not one of ("SET-ME"); Field "STATE_SOURCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("SET-ME"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("SET-ME")
+  :END:
+
+* TODO [[id:01628ca8-81ad-49a6-bef7-1957b9965565][WARNING testd   :dictionary:testd:tag-warning:]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-26 Sun>
   :SCHEMAS:       base
   :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("SET-ME"); Field "STATE_GENERAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_VALIDATION" value "WARNING" is not one of ("SET-ME"); Field "STATE_SOURCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("SET-ME"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("SET-ME")
   :END:
