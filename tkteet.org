@@ -1,4 +1,4 @@
-* WARNING tkteet   :tag-warning:
+* WARNING tkteet   :tag-warning:                            :universal:drill:
 :PROPERTIES:
 :ID:       151de691-7696-4c38-9ccd-0ffa66c2011b
 :STATE_WORK: WARNING
@@ -10,4 +10,6 @@
 :STATE_DEPENDENCY: WARNING
 :STATE_CHECKLIST: WARNING
 :PRIORITY: WARNING
+:RULE:     t
+:DRILL_CARD_TYPE: simple
 :END:
