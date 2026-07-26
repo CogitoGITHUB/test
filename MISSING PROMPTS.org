@@ -52,3 +52,10 @@
   :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("SET-ME"); Field "STATE_GENERAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_VALIDATION" value "WARNING" is not one of ("SET-ME"); Field "STATE_SOURCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("SET-ME"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("SET-ME")
   :END:
 
+* TODO [[id:151de691-7696-4c38-9ccd-0ffa66c2011b][WARNING tkteet   :tag-warning:]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-26 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("SET-ME"); Field "STATE_GENERAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("SET-ME"); Field "STATE_VALIDATION" value "WARNING" is not one of ("SET-ME"); Field "STATE_SOURCE" value "WARNING" is not one of ("SET-ME"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("SET-ME"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("SET-ME")
+  :END:
+
