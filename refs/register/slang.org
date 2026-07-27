@@ -1,0 +1,4 @@
+* slang
+:PROPERTIES:
+:ID:       5860830f-e629-43c2-9d91-9e8c13835120
+:END:
