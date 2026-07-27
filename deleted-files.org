@@ -24,3 +24,549 @@
   :DELETED_FILE:  more_testing.org
   :DELETED_ID:    63f25fc3-e1b9-4adc-b756-7545acc68dde
   :END:
+
+* TODO [[restore:][arabic]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/arabic.org
+  :DELETED_ID:    c54e5334-18d2-4cc5-8304-49afe72e5f78
+  :END:
+
+* TODO [[restore:][french]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/french.org
+  :DELETED_ID:    8f584bfd-0301-4966-8038-3cfd9d3e4f0a
+  :END:
+
+* TODO [[restore:][german]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/german.org
+  :DELETED_ID:    aa3b8205-8298-4305-96bc-dfce9d19a813
+  :END:
+
+* TODO [[restore:][greek]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/greek.org
+  :DELETED_ID:    d80bafbf-cd03-48a0-a999-56fd361c81ac
+  :END:
+
+* TODO [[restore:][hindi]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/hindi.org
+  :DELETED_ID:    442db155-e6ff-44ff-9965-e25950eec3c1
+  :END:
+
+* TODO [[restore:][japanese]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/japanese.org
+  :DELETED_ID:    a9e1d7e0-bc4c-441e-a975-0563c73b93a7
+  :END:
+
+* TODO [[restore:][latin]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/latin.org
+  :DELETED_ID:    cb83dc7c-91ac-4f81-aa47-c2d6a0846328
+  :END:
+
+* TODO [[restore:][old-english]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/old-english.org
+  :DELETED_ID:    7877f23a-13db-4d2a-baec-3bf12fd30171
+  :END:
+
+* TODO [[restore:][other]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/etymology/other.org
+  :DELETED_ID:    4215f2a1-1a3b-4eb8-913a-8dfca5c50f3d
+  :END:
+
+* TODO [[restore:][common]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/frequency/common.org
+  :DELETED_ID:    08729879-a42f-4f7b-ad75-501f49c520c3
+  :END:
+
+* TODO [[restore:][frequent]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/frequency/frequent.org
+  :DELETED_ID:    ec1582c1-758f-42d3-88e2-6611b87af3d3
+  :END:
+
+* TODO [[restore:][obscure]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/frequency/obscure.org
+  :DELETED_ID:    1517fbfe-2026-4d95-aee5-68be76c3619b
+  :END:
+
+* TODO [[restore:][rare]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/frequency/rare.org
+  :DELETED_ID:    2e132c7f-06b6-45a5-8158-d510ac6922c5
+  :END:
+
+* TODO [[restore:][l1]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l1.org
+  :DELETED_ID:    7e5568f3-135a-488a-98a1-7437319a88ec
+  :END:
+
+* TODO [[restore:][l10]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l10.org
+  :DELETED_ID:    d6872261-3563-4605-90fa-45e33d71f030
+  :END:
+
+* TODO [[restore:][l2]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l2.org
+  :DELETED_ID:    5c9c4c1c-acd9-4444-8ad9-404462fb5372
+  :END:
+
+* TODO [[restore:][l3]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l3.org
+  :DELETED_ID:    bfb2c0c1-2f74-4ffc-b827-f0e84d66113e
+  :END:
+
+* TODO [[restore:][l4]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l4.org
+  :DELETED_ID:    9912098a-dd2b-48a6-91b3-000f41b8f65d
+  :END:
+
+* TODO [[restore:][l5]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l5.org
+  :DELETED_ID:    ae274e73-e910-44c0-a4be-25ae67d86908
+  :END:
+
+* TODO [[restore:][l6]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l6.org
+  :DELETED_ID:    f70776c0-d4b4-4d30-940f-35d953b48060
+  :END:
+
+* TODO [[restore:][l7]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l7.org
+  :DELETED_ID:    60a284cf-0bff-409a-bbd5-77918b7db34b
+  :END:
+
+* TODO [[restore:][l8]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l8.org
+  :DELETED_ID:    7e024529-2cc9-44cd-a06e-acb22cda6080
+  :END:
+
+* TODO [[restore:][l9]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/level/l9.org
+  :DELETED_ID:    1c5ffd75-5c03-417e-85f8-201bf6253aea
+  :END:
+
+* TODO [[restore:][child]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/mm-placement/child.org
+  :DELETED_ID:    c49a5b24-7c0f-498c-91ca-68d7668dd68e
+  :END:
+
+* TODO [[restore:][parent]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/mm-placement/parent.org
+  :DELETED_ID:    f7ee755e-c7fd-4fa2-8981-462b6fdf238d
+  :END:
+
+* TODO [[restore:][sibling]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/mm-placement/sibling.org
+  :DELETED_ID:    6f7c6359-5e31-4a1f-87be-0a8b0be2b2f0
+  :END:
+
+* TODO [[restore:][adjective]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/pos/adjective.org
+  :DELETED_ID:    29afb25c-2eb3-4a49-8a3a-30b9e8c7d841
+  :END:
+
+* TODO [[restore:][adverb]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/pos/adverb.org
+  :DELETED_ID:    1467d756-18ba-433a-9061-10bdba602044
+  :END:
+
+* TODO [[restore:][noun]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/pos/noun.org
+  :DELETED_ID:    be827cf8-5d43-40c7-a6ba-f39129609eba
+  :END:
+
+* TODO [[restore:][other]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/pos/other.org
+  :DELETED_ID:    ada1d250-a408-4e0b-9eb2-9ad063b8f00a
+  :END:
+
+* TODO [[restore:][phrase]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/pos/phrase.org
+  :DELETED_ID:    9f1238c8-9305-485c-8d27-8d5e3db35676
+  :END:
+
+* TODO [[restore:][verb]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/pos/verb.org
+  :DELETED_ID:    de6d976f-76a3-4c0c-b7db-19915ba3fa33
+  :END:
+
+* TODO [[restore:][archaic]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/register/archaic.org
+  :DELETED_ID:    47b4e7a1-fa66-4b3b-a8d2-65fd3881bf7f
+  :END:
+
+* TODO [[restore:][colloquial]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/register/colloquial.org
+  :DELETED_ID:    6339478e-2266-4562-aed7-35c470fa1414
+  :END:
+
+* TODO [[restore:][formal]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/register/formal.org
+  :DELETED_ID:    83707ce4-787b-4fa7-b2c2-9ff8a97babde
+  :END:
+
+* TODO [[restore:][informal]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/register/informal.org
+  :DELETED_ID:    a36a50dd-7298-4ec0-954f-11dbb89aac4d
+  :END:
+
+* TODO [[restore:][literary]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/register/literary.org
+  :DELETED_ID:    fba68cba-742b-476e-98f5-a788a8d5d485
+  :END:
+
+* TODO [[restore:][slang]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/register/slang.org
+  :DELETED_ID:    5860830f-e629-43c2-9d91-9e8c13835120
+  :END:
+
+* TODO [[restore:][technical]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/register/technical.org
+  :DELETED_ID:    af38d82e-0481-4106-9b16-cd8ad679056a
+  :END:
+
+* TODO [[restore:][focused]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/scope/focused.org
+  :DELETED_ID:    ea5bfa23-b7a4-48c2-b1af-47f527727a4c
+  :END:
+
+* TODO [[restore:][general]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/scope/general.org
+  :DELETED_ID:    bc988336-49dd-46ec-89d8-eb879c8690dc
+  :END:
+
+* TODO [[restore:][universal]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/scope/universal.org
+  :DELETED_ID:    13d35279-a0d2-4f8c-a324-863da1bfbaa1
+  :END:
+
+* TODO [[restore:][checklist]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-checklist/checklist.org
+  :DELETED_ID:    6485b98d-13e5-4ad3-9421-5728a92cc5db
+  :END:
+
+* TODO [[restore:][mastered]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-checklist/mastered.org
+  :DELETED_ID:    ef1a7e46-0af0-4ff7-9c60-1fe6f1afeb70
+  :END:
+
+* TODO [[restore:][reviewing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-checklist/reviewing.org
+  :DELETED_ID:    7704b514-45da-4ffc-92be-f39d5076cdf9
+  :END:
+
+* TODO [[restore:][delegated]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-dependency/delegated.org
+  :DELETED_ID:    aadfff09-6a9b-44e4-92ad-24e3f89b31aa
+  :END:
+
+* TODO [[restore:][waiting]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-dependency/waiting.org
+  :DELETED_ID:    64161dfa-59fa-4357-a393-c06a4ab4c446
+  :END:
+
+* TODO [[restore:][application]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-general/application.org
+  :DELETED_ID:    df213f82-c738-429c-8875-185f49a66752
+  :END:
+
+* TODO [[restore:][checklist]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-general/checklist.org
+  :DELETED_ID:    978181be-0a72-4234-8400-9e5a68836673
+  :END:
+
+* TODO [[restore:][concept]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-general/concept.org
+  :DELETED_ID:    4e0a449c-17f6-4cd9-9b48-78823b47adb5
+  :END:
+
+* TODO [[restore:][map]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-general/map.org
+  :DELETED_ID:    b90fbd13-031a-45a8-afdb-61173b2716db
+  :END:
+
+* TODO [[restore:][rules]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-general/rules.org
+  :DELETED_ID:    71cf8eda-eb64-44fe-889d-db33ad06eef7
+  :END:
+
+* TODO [[restore:][confirmed]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-intelligence/confirmed.org
+  :DELETED_ID:    d262611e-4246-4adb-abe0-2d0882c7544d
+  :END:
+
+* TODO [[restore:][contested]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-intelligence/contested.org
+  :DELETED_ID:    de1e0887-5cc3-4152-afb6-48df251c3902
+  :END:
+
+* TODO [[restore:][obsolete]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-intelligence/obsolete.org
+  :DELETED_ID:    f1831cff-d63c-44b3-823b-9d0dcbc7fe25
+  :END:
+
+* TODO [[restore:][unverified]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-intelligence/unverified.org
+  :DELETED_ID:    0ae9d798-e6fb-44ff-8019-3c4b3f6cbb8e
+  :END:
+
+* TODO [[restore:][deployed]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-operational/deployed.org
+  :DELETED_ID:    4af64dfd-3a6e-4d1b-ad19-455a070aac71
+  :END:
+
+* TODO [[restore:][in-progress]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-operational/in-progress.org
+  :DELETED_ID:    6ae12149-431e-4909-82ac-61d1235a58cc
+  :END:
+
+* TODO [[restore:][planned]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-operational/planned.org
+  :DELETED_ID:    17d2bea5-72a3-4812-bc47-ae04526ff819
+  :END:
+
+* TODO [[restore:][retired]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-operational/retired.org
+  :DELETED_ID:    6175947c-fac0-4bca-88b7-13196fbe65c2
+  :END:
+
+* TODO [[restore:][suspended]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-operational/suspended.org
+  :DELETED_ID:    944db893-6f1d-4640-b548-5a07d1605946
+  :END:
+
+* TODO [[restore:][partial]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-source/partial.org
+  :DELETED_ID:    406a06f5-2854-44df-beb7-e022f30f177a
+  :END:
+
+* TODO [[restore:][sourced]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-source/sourced.org
+  :DELETED_ID:    078ad5ea-b0dc-4da6-aa41-6f7e993861ef
+  :END:
+
+* TODO [[restore:][unsourced]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-source/unsourced.org
+  :DELETED_ID:    f3f35cd3-dcfc-450f-b0d2-d2abb45daa64
+  :END:
+
+* TODO [[restore:][draft]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-validation/draft.org
+  :DELETED_ID:    c5de0a28-d4db-4aed-9a76-c40753d393dc
+  :END:
+
+* TODO [[restore:][failed]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-validation/failed.org
+  :DELETED_ID:    efbfd6eb-0d47-451c-964a-5d37114ed551
+  :END:
+
+* TODO [[restore:][reviewed]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-validation/reviewed.org
+  :DELETED_ID:    a2df14ab-3a6e-4ae9-a460-f87220eb076c
+  :END:
+
+* TODO [[restore:][superseded]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-validation/superseded.org
+  :DELETED_ID:    a64ebe27-3580-4e9d-bec4-ab198f134c91
+  :END:
+
+* TODO [[restore:][validated]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-validation/validated.org
+  :DELETED_ID:    08a4262d-1525-4d42-8eb0-2e4fa4f9f17b
+  :END:
+
+* TODO [[restore:][abandoned]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-work/abandoned.org
+  :DELETED_ID:    0c144cf3-b232-4a43-b01e-6c4e4667b56f
+  :END:
+
+* TODO [[restore:][active]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-work/active.org
+  :DELETED_ID:    46923437-e383-4f52-bc9b-268b05b778ce
+  :END:
+
+* TODO [[restore:][blocked]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-work/blocked.org
+  :DELETED_ID:    ac00636e-8bad-4b7b-b917-2c3cd5c68dcb
+  :END:
+
+* TODO [[restore:][complete]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-work/complete.org
+  :DELETED_ID:    15a00374-5d91-4fe8-84c5-e8a3f58cbe40
+  :END:
+
+* TODO [[restore:][paused]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-work/paused.org
+  :DELETED_ID:    6035b82e-e1dc-44be-9ea1-29aa5c08ecd5
+  :END:
+
+* TODO [[restore:][waiting]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  refs/state-work/waiting.org
+  :DELETED_ID:    b1a1375c-4d7a-4289-a1d2-8a3ff116173c
+  :END:
+
+* TODO [[restore:][some more testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  some more testing.org
+  :DELETED_ID:    c39af3f2-f33b-4f03-9ac6-b446024ee3cb
+  :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  test.org
+  :DELETED_ID:    64cec9b1-0035-45b2-bb8b-db23b92ea4fa
+  :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-27 Mon>
+  :DELETED_FILE:  testing.org
+  :DELETED_ID:    0c93a547-d6ce-48f5-aa89-242f81d7ee90
+  :END:

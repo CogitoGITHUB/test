@@ -1,4 +1,0 @@
-* Hindi
-:PROPERTIES:
-:ID:       442db155-e6ff-44ff-9965-e25950eec3c1
-:END:

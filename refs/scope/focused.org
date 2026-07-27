@@ -1,4 +1,0 @@
-* focused
-:PROPERTIES:
-:ID:       ea5bfa23-b7a4-48c2-b1af-47f527727a4c
-:END:

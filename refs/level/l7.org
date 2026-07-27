@@ -1,4 +1,0 @@
-* L7
-:PROPERTIES:
-:ID:       60a284cf-0bff-409a-bbd5-77918b7db34b
-:END:

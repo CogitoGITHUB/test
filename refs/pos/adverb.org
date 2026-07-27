@@ -1,4 +1,0 @@
-* adverb
-:PROPERTIES:
-:ID:       1467d756-18ba-433a-9061-10bdba602044
-:END:

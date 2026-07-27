@@ -1,4 +1,0 @@
-* Latin
-:PROPERTIES:
-:ID:       cb83dc7c-91ac-4f81-aa47-c2d6a0846328
-:END:

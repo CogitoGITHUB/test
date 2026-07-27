@@ -1,4 +1,0 @@
-* L1
-:PROPERTIES:
-:ID:       7e5568f3-135a-488a-98a1-7437319a88ec
-:END:

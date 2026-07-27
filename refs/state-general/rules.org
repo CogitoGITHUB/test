@@ -1,4 +1,0 @@
-* RULES
-:PROPERTIES:
-:ID:       71cf8eda-eb64-44fe-889d-db33ad06eef7
-:END:

@@ -1,4 +1,0 @@
-* German
-:PROPERTIES:
-:ID:       aa3b8205-8298-4305-96bc-dfce9d19a813
-:END:

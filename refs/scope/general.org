@@ -1,4 +1,0 @@
-* general
-:PROPERTIES:
-:ID:       bc988336-49dd-46ec-89d8-eb879c8690dc
-:END:

@@ -1,4 +1,0 @@
-* rare
-:PROPERTIES:
-:ID:       2e132c7f-06b6-45a5-8158-d510ac6922c5
-:END:

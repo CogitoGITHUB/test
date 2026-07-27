@@ -1,4 +1,0 @@
-* obscure
-:PROPERTIES:
-:ID:       1517fbfe-2026-4d95-aee5-68be76c3619b
-:END:

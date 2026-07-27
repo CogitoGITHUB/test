@@ -1,4 +1,0 @@
-* L4
-:PROPERTIES:
-:ID:       9912098a-dd2b-48a6-91b3-000f41b8f65d
-:END:

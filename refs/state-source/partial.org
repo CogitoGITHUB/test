@@ -1,4 +1,0 @@
-* PARTIAL
-:PROPERTIES:
-:ID:       406a06f5-2854-44df-beb7-e022f30f177a
-:END:

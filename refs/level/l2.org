@@ -1,4 +1,0 @@
-* L2
-:PROPERTIES:
-:ID:       5c9c4c1c-acd9-4444-8ad9-404462fb5372
-:END:

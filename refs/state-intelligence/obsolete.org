@@ -1,4 +1,0 @@
-* OBSOLETE
-:PROPERTIES:
-:ID:       f1831cff-d63c-44b3-823b-9d0dcbc7fe25
-:END:

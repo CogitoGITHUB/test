@@ -1,4 +1,0 @@
-* technical
-:PROPERTIES:
-:ID:       af38d82e-0481-4106-9b16-cd8ad679056a
-:END:

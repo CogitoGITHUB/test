@@ -1,4 +1,0 @@
-* literary
-:PROPERTIES:
-:ID:       fba68cba-742b-476e-98f5-a788a8d5d485
-:END:

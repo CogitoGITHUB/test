@@ -1,4 +1,0 @@
-* formal
-:PROPERTIES:
-:ID:       83707ce4-787b-4fa7-b2c2-9ff8a97babde
-:END:

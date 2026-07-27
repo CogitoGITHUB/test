@@ -1,4 +1,0 @@
-* L5
-:PROPERTIES:
-:ID:       ae274e73-e910-44c0-a4be-25ae67d86908
-:END:

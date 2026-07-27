@@ -1,4 +1,0 @@
-* L6
-:PROPERTIES:
-:ID:       f70776c0-d4b4-4d30-940f-35d953b48060
-:END:
