@@ -4,9 +4,110 @@
 #+STARTUP: overview
 
 
-* TODO [[restore:][test]]
+* TODO [[restore:][straight-stderr-10129]]
   :PROPERTIES:
-  :CREATED:       <2026-07-28 Tue>
-  :DELETED_FILE:  test.org
-  :DELETED_ID:    c5a8daa3-5e58-45d5-90b4-fc7d8d45b020
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-10129
+  :END:
+
+* TODO [[restore:][straight-stderr-10539]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-10539
+  :END:
+
+* TODO [[restore:][straight-stderr-10997]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-10997
+  :END:
+
+* TODO [[restore:][straight-stderr-11457]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-11457
+  :END:
+
+* TODO [[restore:][straight-stderr-11923]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-11923
+  :END:
+
+* TODO [[restore:][straight-stderr-12435]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-12435
+  :END:
+
+* TODO [[restore:][straight-stderr-12878]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-12878
+  :END:
+
+* TODO [[restore:][straight-stderr-13412]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-13412
+  :END:
+
+* TODO [[restore:][straight-stderr-14006]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-14006
+  :END:
+
+* TODO [[restore:][straight-stderr-14580]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-14580
+  :END:
+
+* TODO [[restore:][straight-stderr-15130]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-15130
+  :END:
+
+* TODO [[restore:][straight-stderr-15587]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-15587
+  :END:
+
+* TODO [[restore:][straight-stderr-16339]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-16339
+  :END:
+
+* TODO [[restore:][straight-stderr-16779]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-16779
+  :END:
+
+* TODO [[restore:][straight-stderr-17268]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-17268
+  :END:
+
+* TODO [[restore:][straight-stderr-17835]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-17835
+  :END:
+
+* TODO [[restore:][straight-stderr-18400]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-18400
+  :END:
+
+* TODO [[restore:][straight-stderr-24492]]
+  :PROPERTIES:
+  :CREATED:       <2026-07-31 Fri>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-24492
   :END:
