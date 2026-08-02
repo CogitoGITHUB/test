@@ -39,3 +39,9 @@
   :CREATED:       <2026-08-03 Mon>
   :DELETED_FILE:  ../.config/emacs/modules/org-drill-table.org
   :END:
+
+* TODO [[restore:][org-fc]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../.config/emacs/modules/org-fc.org
+  :END:
