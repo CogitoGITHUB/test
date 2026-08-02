@@ -73,3 +73,9 @@
   :CREATED:       <2026-08-02 Sun>
   :DELETED_FILE:  ttttt
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-02 Sun>
+  :DELETED_FILE:  test
+  :END:
