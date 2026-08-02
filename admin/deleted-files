@@ -27,3 +27,15 @@
   :CREATED:       <2026-08-02 Sun>
   :DELETED_FILE:  ../../../tmp/straight-stderr-16926
   :END:
+
+* TODO [[restore:][org-drill]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../.config/emacs/modules/org-drill.org
+  :END:
+
+* TODO [[restore:][org-drill-table]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../.config/emacs/modules/org-drill-table.org
+  :END:
