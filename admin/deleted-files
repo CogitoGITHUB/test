@@ -10,3 +10,15 @@
   :DELETED_FILE:  more testing
   :DELETED_ID:    c7d21fd6-2e57-441c-9b5b-22df08dd6a90
   :END:
+
+* TODO [[restore:][c6bea3-0792-421e-bb61-9029745db1a6]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-01 Sat>
+  :DELETED_FILE:  ../.cache/org-persist/e4/c6bea3-0792-421e-bb61-9029745db1a6
+  :END:
+
+* TODO [[restore:][straight-stderr-16491]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-01 Sat>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-16491
+  :END:
