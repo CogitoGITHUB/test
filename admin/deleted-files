@@ -4,78 +4,8 @@
 #+STARTUP: overview
 
 
-* TODO [[restore:][test]]
+* TODO [[restore:][MISSING PROMPTS]]
   :PROPERTIES:
   :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  test
-  :DELETED_ID:    7980b63f-319d-4693-826b-aa2fa296db32
-  :END:
-
-* TODO [[restore:][testing]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  testing
-  :DELETED_ID:    cfa2f986-489c-4417-a76c-1e1c7caca0ff
-  :END:
-
-* TODO [[restore:][e10ddd-4083-48ad-99bd-c738c211e7c1]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  ../.cache/org-persist/98/e10ddd-4083-48ad-99bd-c738c211e7c1
-  :END:
-
-* TODO [[restore:][4b0d40-f9f3-4bf1-84b8-ad8565649f12]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  ../.cache/org-persist/d3/4b0d40-f9f3-4bf1-84b8-ad8565649f12
-  :END:
-
-* TODO [[restore:][afdd85-a6ac-4cd6-8dfa-f72beafaf201]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  ../.cache/org-persist/65/afdd85-a6ac-4cd6-8dfa-f72beafaf201
-  :END:
-
-* TODO [[restore:][straight-stderr-6687]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  ../../../tmp/straight-stderr-6687
-  :END:
-
-* TODO [[restore:][aoeu]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  aoeu
-  :DELETED_ID:    7884b9b0-4447-456d-b61a-33f7b104c59b
-  :END:
-
-* TODO [[restore:][testing]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  testing
-  :DELETED_ID:    742d087e-7d87-41ec-bfd1-756dd2eb6e41
-  :END:
-
-* TODO [[restore:][ettete]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  ettete
-  :END:
-
-* TODO [[restore:][Todo]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  Todo
-  :END:
-
-* TODO [[restore:][ttttt]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  ttttt
-  :END:
-
-* TODO [[restore:][test]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-02 Sun>
-  :DELETED_FILE:  test
+  :DELETED_FILE:  admin/MISSING PROMPTS
   :END:
