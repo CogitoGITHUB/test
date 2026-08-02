@@ -1,1 +1,8 @@
-* TODO 
+* TODO [7/24, 15:52] Paul: dictionaly make all words you use have a definiton and a key bitd to see it
+[7/24, 15:52] Paul: also i need a way to iniorce if i write a word without definitos to make a missing definition warning in a file like missing links
+[8/2, 17:32] Paul: i need a agenda style vulpea integration... maybe like journal ???
+[8/2, 19:14] Paul: i need manifolding emacs to load only the changes not reload full config all the time I make a change
+[8/2, 19:15] Paul: the update menu it's not showing all property's from the file
+[8/2, 19:22] Paul: vulpea tasks ?
+[8/2, 19:28] Paul: the refs from properties need to be deleted alongside the file as well .. and also restored if I restore the file itself
+[8/3, 00:36] Paul: https://thanosapollo.org/projects/gnosis/ clone it and make it part of vulpea plugins
