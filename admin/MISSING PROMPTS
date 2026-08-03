@@ -3,17 +3,10 @@
 #+DESCRIPTION: Auto-generated - notes with schema violations.
 #+STARTUP: overview
 
-* TODO [[id:46709fa7-8eb2-41d6-b15a-2d9c08ea6270][WARNING test   :tag-warning:]]
+* TODO [[id:6de8e03f-d69b-47fa-9efe-64e202ad3eb5][WARNING test   :tag-warning:]]
   :PROPERTIES:
   :CREATED:       <2026-08-03 Mon>
   :SCHEMAS:       base
-  :VIOLATIONS:    Required field "STATE_WORK" is missing; Field "STATE_GENERAL" value "[[id:fb44da9e-a402-4272-abdd-ec2be52ecf7a][STATE GENERAL: CONCEPT]]" is not one of ("CONCEPT" "RULES" "APPLICATION" "MAP" "CHECKLIST"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED")
-  :END:
-
-* TODO [[id:fb44da9e-a402-4272-abdd-ec2be52ecf7a][STATE GENERAL: CONCEPT]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-03 Mon>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("CONCEPT" "RULES" "APPLICATION" "MAP" "CHECKLIST"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED")
   :END:
 
