@@ -164,3 +164,46 @@
   :DELETED_FILE:  test
   :DELETED_ID:    667e2ffe-8a59-40ce-9152-5d52f43eb388
   :END:
+
+* TODO [[restore:][tent]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  tent
+  :DELETED_ID:    8fe461a1-a072-4cb0-a58a-96cc6d0e97f5
+  :END:
+
+* TODO [[restore:][ebb75d-9a32-443f-9ac8-bc90a9886539]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../.cache/org-persist/c4/ebb75d-9a32-443f-9ac8-bc90a9886539
+  :END:
+
+* TODO [[restore:][144ce8-bd8e-4e28-b085-ca9e8d477993]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../.cache/org-persist/a5/144ce8-bd8e-4e28-b085-ca9e8d477993
+  :END:
+
+* TODO [[restore:][straight-stderr-9751]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-9751
+  :END:
+
+* TODO [[restore:][straight-stderr-12699]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-12699
+  :END:
+
+* TODO [[restore:][straight-stderr-13839]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-13839
+  :END:
+
+* TODO [[restore:][straight-stderr-14223]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-03 Mon>
+  :DELETED_FILE:  ../../../tmp/straight-stderr-14223
+  :END:
