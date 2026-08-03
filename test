@@ -15,12 +15,3 @@
 :END:
 #+transclude: [[id:fb44da9e-a402-4272-abdd-ec2be52ecf7a][STATE GENERAL: CONCEPT]]
 
-
-(with-current-buffer (find-file-noselect "/home/aoeu/test/test")
-  (goto-char (point-min))
-  (if (re-search-forward "^#\\+transclude:" nil t)
-      (message "RAW LINE: %S"
-               (buffer-substring-no-properties
-                (line-beginning-position)
-                (line-end-position)))
-    (message "NO TRANSCLUDE LINE FOUND")))
