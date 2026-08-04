@@ -606,3 +606,11 @@
   :CREATED:       <2026-08-04 Tue>
   :DELETED_FILE:  ../../../tmp/straight-stderr-6758
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-04 Tue>
+  :DELETED_FILE:  test
+  :DELETED_ID:    55aca47e-075b-4b54-9efa-a2276dc8b651
+  :DELETED_REFS:  admin/refs/state-work/active
+  :END:
