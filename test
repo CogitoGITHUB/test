@@ -1,4 +1,8 @@
 * WARNING test   :tag-warning:
+:PROPERTIES:
+:STATE_VALIDATION: [[id:1c1a6d5d-ba74-427e-99e8-5a874811329c][STATE VALIDATION: DRAFT]]
+#+transclude: [[id:ae1a9991-51e2-4021-b22f-24547d7f9304][STATE WORK: PAUSED]]
+:END:
 #+transclude: [[id:ba05556b-4a4a-4d31-bc7f-9ca44238c8e1][STATE WORK: COMPLETE]]
 :PROPERTIES:
 :ID:       55aca47e-075b-4b54-9efa-a2276dc8b651
