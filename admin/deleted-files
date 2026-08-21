@@ -257,3 +257,15 @@
   :DELETED_FILE:  testing
   :DELETED_ID:    ff07480b-8aa1-448b-b7a8-8e663cb62b60
   :END:
+
+* TODO [[restore:][30dd7e-b128-4c41-938c-dc282a3103e7]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-21 Fri>
+  :DELETED_FILE:  ../.cache/org-persist/1f/30dd7e-b128-4c41-938c-dc282a3103e7
+  :END:
+
+* TODO [[restore:][straight-stderr-1105]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-21 Fri>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-1105
+  :END:
