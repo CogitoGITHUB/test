@@ -455,3 +455,21 @@
   :DELETED_FILE:  test
   :DELETED_ID:    be8b70b2-a941-47a1-acce-f0cc208a8e5b
   :END:
+
+* TODO [[restore:][c0ba89-93cc-4bc6-9dd9-bdda0031bc11]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../.cache/org-persist/b1/c0ba89-93cc-4bc6-9dd9-bdda0031bc11
+  :END:
+
+* TODO [[restore:][straight-stderr-25747]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-25747
+  :END:
+
+* TODO [[restore:][straight-stderr-28254]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-28254
+  :END:
