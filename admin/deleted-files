@@ -430,3 +430,21 @@
   :DELETED_FILE:  test
   :DELETED_ID:    3c61aab9-6d74-45cc-af7a-d1bdc3674082
   :END:
+
+* TODO [[restore:][89e074-280c-4c5e-a82f-dc1af2a031e7]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../.cache/org-persist/f2/89e074-280c-4c5e-a82f-dc1af2a031e7
+  :END:
+
+* TODO [[restore:][a8c9e9-61ce-4f9a-9336-b921b5cfd6b3]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../.cache/org-persist/8e/a8c9e9-61ce-4f9a-9336-b921b5cfd6b3
+  :END:
+
+* TODO [[restore:][straight-stderr-24258]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-24258
+  :END:
