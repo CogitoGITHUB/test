@@ -250,3 +250,10 @@
   :DELETED_FILE:  []Testdiff=schemeforCommonLispandotherLispdialects/nvestigategit2 55 0lispuserdiffsupport properties created 2026 08 19wed end
   :DELETED_ID:    7bf1ab14-9641-4b8b-bed0-a9367ea5d9de
   :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-21 Fri>
+  :DELETED_FILE:  testing
+  :DELETED_ID:    ff07480b-8aa1-448b-b7a8-8e663cb62b60
+  :END:
