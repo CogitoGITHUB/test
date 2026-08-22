@@ -681,3 +681,10 @@
   :CREATED:       <2026-08-23 Sun>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-9788
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :DELETED_FILE:  test
+  :DELETED_ID:    4577283c-19cd-4eba-b678-2a5b3368e614
+  :END:
