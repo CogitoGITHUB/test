@@ -10,3 +10,52 @@
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
 
+* TODO [[id:b8cc6390-2aa9-4c4d-af8a-a0ca2e70241d][STATE VALIDATION: DRAFT]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:8fe6b128-d7e9-4de6-9bb6-cbdb9d03367e][STATE SOURCE: UNSOURCED]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:670c870e-eb5d-4ceb-a7b7-2760adc1d469][STATE OPERATIONAL: PLANNED]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:7d202df6-0323-4f3e-8954-d35ab62ebde3][STATE INTELLIGENCE: UNVERIFIED]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:cc73bd4b-ab63-4661-9610-5c3507f4f7dd][STATE GENERAL: EVERGREEN]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:ff5b0800-3292-4a4e-9f10-7a27ac4f9e44][STATE DEPENDENCY: WAITING]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:dbb686ae-4136-4679-9725-54cff0261854][STATE CHECKLIST: CHECKLIST]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
