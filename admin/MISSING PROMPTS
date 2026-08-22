@@ -3,9 +3,9 @@
 #+DESCRIPTION: Auto-generated - notes with schema violations.
 #+STARTUP: overview
 
-* TODO [[id:92bf6402-2d52-48aa-bc88-3ad8b7f17894][test]]
+* TODO [[id:4577283c-19cd-4eba-b678-2a5b3368e614][test   :tag-warning:]]
   :PROPERTIES:
-  :CREATED:       <2026-08-22 Sat>
+  :CREATED:       <2026-08-23 Sun>
   :SCHEMAS:       base
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
