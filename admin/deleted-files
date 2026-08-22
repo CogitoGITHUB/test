@@ -566,3 +566,15 @@
   :DELETED_FILE:  test
   :DELETED_ID:    f6d7ff0a-53a6-4be4-8249-4882d1765850
   :END:
+
+* TODO [[restore:][7ed6e1-df05-4f3f-8aa6-d708bc3526dc]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../.cache/org-persist/04/7ed6e1-df05-4f3f-8aa6-d708bc3526dc
+  :END:
+
+* TODO [[restore:][straight-stderr-22221]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-22 Sat>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-22221
+  :END:
