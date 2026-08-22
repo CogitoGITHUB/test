@@ -688,3 +688,15 @@
   :DELETED_FILE:  test
   :DELETED_ID:    4577283c-19cd-4eba-b678-2a5b3368e614
   :END:
+
+* TODO [[restore:][d8033c-f9d8-48c0-b327-f5c51bb343ec]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :DELETED_FILE:  ../.cache/org-persist/55/d8033c-f9d8-48c0-b327-f5c51bb343ec
+  :END:
+
+* TODO [[restore:][straight-stderr-15586]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-15586
+  :END:
