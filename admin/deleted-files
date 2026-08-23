@@ -781,3 +781,15 @@
   :CREATED:       <2026-08-23 Sun>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-24503
   :END:
+
+* TODO [[restore:][68c1f9-c6b0-4857-8b4d-dc560061c672]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :DELETED_FILE:  ../.cache/org-persist/6d/68c1f9-c6b0-4857-8b4d-dc560061c672
+  :END:
+
+* TODO [[restore:][straight-stderr-12005]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-12005
+  :END:
