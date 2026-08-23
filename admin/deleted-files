@@ -731,3 +731,17 @@
   :DELETED_FILE:  hehehhe
   :DELETED_ID:    d1540da0-5104-4876-b60b-f4c425d12a5b
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :DELETED_FILE:  test
+  :DELETED_ID:    3e9ce3c2-d3de-48c0-820c-979e072533ed
+  :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-23 Sun>
+  :DELETED_FILE:  testing
+  :DELETED_ID:    4ced8738-09c5-48ab-af07-e80e3c5cb703
+  :END:
