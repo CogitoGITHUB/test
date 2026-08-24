@@ -293,3 +293,17 @@
   :CREATED:       <2026-08-24 Mon>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-10333
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-24 Mon>
+  :DELETED_FILE:  test
+  :DELETED_ID:    7d0b613a-924a-4d7f-af31-b3309db3b1fe
+  :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-24 Mon>
+  :DELETED_FILE:  testing
+  :DELETED_ID:    573b937c-43b8-4a54-8509-b002edc6fafd
+  :END:
