@@ -307,3 +307,24 @@
   :DELETED_FILE:  testing
   :DELETED_ID:    573b937c-43b8-4a54-8509-b002edc6fafd
   :END:
+
+* TODO [[restore:][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-24 Mon>
+  :DELETED_FILE:  test
+  :DELETED_ID:    5fd59ccd-b36a-4d2c-9d95-530065a14840
+  :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-24 Mon>
+  :DELETED_FILE:  testing
+  :DELETED_ID:    f98e2bb1-7979-4e37-be18-642b2f9d47c2
+  :END:
+
+* TODO [[restore:][tetewo]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-24 Mon>
+  :DELETED_FILE:  tetewo
+  :DELETED_ID:    06eb7428-232a-4aee-bf4b-ac4d8385796d
+  :END:
