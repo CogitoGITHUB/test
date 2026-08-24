@@ -3,14 +3,7 @@
 #+DESCRIPTION: Auto-generated - notes with schema violations.
 #+STARTUP: overview
 
-* TODO [[id:7d0b613a-924a-4d7f-af31-b3309db3b1fe][test]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-24 Mon>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
-  :END:
-
-* TODO [[id:573b937c-43b8-4a54-8509-b002edc6fafd][testing]]
+* TODO [[id:5fd59ccd-b36a-4d2c-9d95-530065a14840][test]]
   :PROPERTIES:
   :CREATED:       <2026-08-24 Mon>
   :SCHEMAS:       base
