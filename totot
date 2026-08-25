@@ -64,6 +64,5 @@
 :BLUEPRINT: WARNING
 :ADVANTAGES: WARNING
 :END:
-#+transclude: [[id:5f2d10a1-ca26-474f-800b-dfec695781fd][STATE CHECKLIST: REVIEWING]] :property
-
+#+transclude: [[id:b9e781f0-c9be-4e11-9749-ff7b0eb647c3][STATE CHECKLIST: CHECKLIST]]  :property
 
