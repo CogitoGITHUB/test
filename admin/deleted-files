@@ -1085,3 +1085,15 @@
   :CREATED:       <2026-08-26 Wed>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-2735
   :END:
+
+* TODO [[restore:][3aa571-f332-41c0-9e63-e877b8eb2527]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../.cache/org-persist/05/3aa571-f332-41c0-9e63-e877b8eb2527
+  :END:
+
+* TODO [[restore:][straight-stderr-5394]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-5394
+  :END:
