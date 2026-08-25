@@ -31,21 +31,7 @@
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
 
-* TODO [[id:13140f9d-8531-4719-bac7-057e5aaf3802][WARNING tt]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-26 Wed>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("EVERGREEN" "DRAFT" "SETTLED"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED"); Field "RULES" value "WARNING" is not one of ("DRAFT" "RATIFIED" "AMENDED" "REVOKED"); Field "TRAPS_EXTERNAL" value "WARNING" is not one of ("DESIGNED" "SPRUNG" "RETIRED"); Field "TRAPS_INTERNAL" value "WARNING" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
-  :END:
-
-* TODO [[id:57a891b4-c099-445f-96b9-5bcd64eedd7c][WARNING tttt]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-26 Wed>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("EVERGREEN" "DRAFT" "SETTLED"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED"); Field "RULES" value "WARNING" is not one of ("DRAFT" "RATIFIED" "AMENDED" "REVOKED"); Field "TRAPS_EXTERNAL" value "WARNING" is not one of ("DESIGNED" "SPRUNG" "RETIRED"); Field "TRAPS_INTERNAL" value "WARNING" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
-  :END:
-
-* TODO [[id:63bd2dbf-50d5-4025-b536-5c45f593b5cd][WARNING vvvv]]
+* TODO [[id:cf4bbe1b-1223-4f2c-aa4a-bad5966b46d5][WARNING vv]]
   :PROPERTIES:
   :CREATED:       <2026-08-26 Wed>
   :SCHEMAS:       base
