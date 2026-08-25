@@ -862,3 +862,21 @@
   :CREATED:       <2026-08-25 Tue>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-11891
   :END:
+
+* TODO [[restore:][ddde17-30a7-49e8-834d-90ff327014dd]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-25 Tue>
+  :DELETED_FILE:  ../.cache/org-persist/96/ddde17-30a7-49e8-834d-90ff327014dd
+  :END:
+
+* TODO [[restore:][b09e18-5224-4681-a019-00352810fa68]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-25 Tue>
+  :DELETED_FILE:  ../.cache/org-persist/29/b09e18-5224-4681-a019-00352810fa68
+  :END:
+
+* TODO [[restore:][straight-stderr-15813]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-25 Tue>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-15813
+  :END:
