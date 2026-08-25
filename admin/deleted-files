@@ -950,3 +950,15 @@
   :DELETED_FILE:  hhh
   :DELETED_ID:    df274321-819a-4be6-a6b2-6f682023d890
   :END:
+
+* TODO [[restore:][6b7f76-3876-40f6-b109-493523a246c9]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../.cache/org-persist/35/6b7f76-3876-40f6-b109-493523a246c9
+  :END:
+
+* TODO [[restore:][straight-stderr-14890]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-14890
+  :END:
