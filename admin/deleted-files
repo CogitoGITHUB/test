@@ -987,3 +987,22 @@
   :CREATED:       <2026-08-26 Wed>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-18514
   :END:
+
+* TODO [[restore:][hhh]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  hhh
+  :DELETED_ID:    5b1f1c7e-9e85-4d6a-a07d-600bfe18f804
+  :END:
+
+* TODO [[restore:][5ae1b9-ac0a-4055-9a11-99de8222b2ad]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../.cache/org-persist/51/5ae1b9-ac0a-4055-9a11-99de8222b2ad
+  :END:
+
+* TODO [[restore:][straight-stderr-19535]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-19535
+  :END:
