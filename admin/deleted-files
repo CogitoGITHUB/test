@@ -1154,3 +1154,22 @@
   :CREATED:       <2026-08-26 Wed>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-8128
   :END:
+
+* TODO [[restore:][vv]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  vv
+  :DELETED_ID:    cf4bbe1b-1223-4f2c-aa4a-bad5966b46d5
+  :END:
+
+* TODO [[restore:][1f86c2-21a9-4b41-80fc-ef089198f420]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../.cache/org-persist/05/1f86c2-21a9-4b41-80fc-ef089198f420
+  :END:
+
+* TODO [[restore:][straight-stderr-8807]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-8807
+  :END:
