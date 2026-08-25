@@ -975,3 +975,15 @@
   :DELETED_FILE:  owjwo
   :DELETED_ID:    f5788fff-c45c-4f6e-9267-1f4385a1fb77
   :END:
+
+* TODO [[restore:][e03905-121f-48aa-9435-93b8b25b98c1]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../.cache/org-persist/86/e03905-121f-48aa-9435-93b8b25b98c1
+  :END:
+
+* TODO [[restore:][straight-stderr-18514]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-18514
+  :END:
