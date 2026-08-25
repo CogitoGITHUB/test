@@ -698,3 +698,15 @@
   :DELETED_FILE:  wowo
   :DELETED_ID:    809d4a76-7817-4d7d-b033-84c2f4b3d4d0
   :END:
+
+* TODO [[restore:][5de462-242c-468c-90bf-b35fd1fb0000]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-25 Tue>
+  :DELETED_FILE:  ../.cache/org-persist/67/5de462-242c-468c-90bf-b35fd1fb0000
+  :END:
+
+* TODO [[restore:][straight-stderr-16954]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-25 Tue>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-16954
+  :END:
