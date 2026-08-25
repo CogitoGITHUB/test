@@ -736,3 +736,15 @@
   :DELETED_FILE:  test
   :DELETED_ID:    0035b584-0bc5-46e6-b616-7e1899cb2a88
   :END:
+
+* TODO [[restore:][3cd075-883e-4d29-9d4d-2a6e69368846]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-25 Tue>
+  :DELETED_FILE:  ../.cache/org-persist/3c/3cd075-883e-4d29-9d4d-2a6e69368846
+  :END:
+
+* TODO [[restore:][straight-stderr-14934]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-25 Tue>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-14934
+  :END:
