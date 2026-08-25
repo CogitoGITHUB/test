@@ -24,13 +24,6 @@
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
 
-* TODO [[id:38ad8db4-bced-4d3b-a783-b0e333c3c4c4][WARNING ttjtj]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-26 Wed>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("EVERGREEN" "DRAFT" "SETTLED"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED"); Field "RULES" value "WARNING" is not one of ("DRAFT" "RATIFIED" "AMENDED" "REVOKED"); Field "TRAPS_EXTERNAL" value "WARNING" is not one of ("DESIGNED" "SPRUNG" "RETIRED"); Field "TRAPS_INTERNAL" value "[[id:2f58c920-907b-43d4-9247-2bac2269745a][TRAPS INTERNAL: ACTIVE]]" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
-  :END:
-
 * TODO [[id:2f58c920-907b-43d4-9247-2bac2269745a][TRAPS INTERNAL: ACTIVE]]
   :PROPERTIES:
   :CREATED:       <2026-08-26 Wed>
