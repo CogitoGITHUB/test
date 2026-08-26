@@ -1404,3 +1404,15 @@
   :DELETED_FILE:  test
   :DELETED_ID:    9f686059-c447-4202-85cd-6fef50f9a499
   :END:
+
+* TODO [[restore:][17c4db-3e1f-4b2f-b4db-264866ff4ff9]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../.cache/org-persist/4d/17c4db-3e1f-4b2f-b4db-264866ff4ff9
+  :END:
+
+* TODO [[restore:][straight-stderr-31862]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-31862
+  :END:
