@@ -31,3 +31,10 @@
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
 
+* TODO [[id:cd3d0215-4cff-4cf6-8fe4-076351753fd3][tent   :tag-warning:]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-26 Wed>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing; Field "TRAPS_INTERNAL" value "WARNING" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
+  :END:
+
