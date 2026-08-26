@@ -31,7 +31,7 @@
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
 
-* TODO [[id:cf4bbe1b-1223-4f2c-aa4a-bad5966b46d5][WARNING vv]]
+* TODO [[id:d6aea4d0-2547-4611-888a-21832399f6ac][WARNING tt]]
   :PROPERTIES:
   :CREATED:       <2026-08-26 Wed>
   :SCHEMAS:       base
