@@ -1,0 +1,12 @@
+#+TITLE: MISSING PROMPTS
+#+AUTHOR: Shape
+#+DESCRIPTION: Auto-generated - notes with schema violations.
+#+STARTUP: overview
+
+* TODO [[id:b9e781f0-c9be-4e11-9749-ff7b0eb647c3][STATE CHECKLIST: CHECKLIST]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-27 Thu>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
