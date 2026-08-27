@@ -1975,3 +1975,9 @@
   :CREATED:       <2026-08-27 Thu>
   :DELETED_FILE:  ../.cache/org-persist/99/31f610-a3e6-49b7-b91b-b0759c0047c2
   :END:
+
+* TODO [[restore:][straight-stderr-26396]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-27 Thu>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-26396
+  :END:
