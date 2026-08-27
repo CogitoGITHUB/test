@@ -1748,3 +1748,9 @@
   :CREATED:       <2026-08-27 Thu>
   :DELETED_FILE:  ../../usr/tmp/straight-stderr-8479
   :END:
+
+* TODO [[restore:][prompt-engine]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-27 Thu>
+  :DELETED_FILE:  modules/manifolding-atlas/infra/capture/prompt-engine.org
+  :END:
