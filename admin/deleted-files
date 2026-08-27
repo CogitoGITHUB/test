@@ -1786,3 +1786,9 @@
   :CREATED:       <2026-08-27 Thu>
   :DELETED_FILE:  ../.cache/org-persist/37/830970-ad15-4a6c-abb2-b9f95c05f25e
   :END:
+
+* TODO [[restore:][straight-stderr-11599]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-27 Thu>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-11599
+  :END:
