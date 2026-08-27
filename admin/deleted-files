@@ -1768,3 +1768,21 @@
   :DELETED_FILE:  vvv
   :DELETED_ID:    f628ed40-30f4-43f9-be2b-c4e489b1904b
   :END:
+
+* TODO [[restore:][straight-stderr-7767]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-27 Thu>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-7767
+  :END:
+
+* TODO [[restore:][d39318-92d7-47e9-8d0f-bbf605b87e8e]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-27 Thu>
+  :DELETED_FILE:  ../.cache/org-persist/2d/d39318-92d7-47e9-8d0f-bbf605b87e8e
+  :END:
+
+* TODO [[restore:][830970-ad15-4a6c-abb2-b9f95c05f25e]]
+  :PROPERTIES:
+  :CREATED:       <2026-08-27 Thu>
+  :DELETED_FILE:  ../.cache/org-persist/37/830970-ad15-4a6c-abb2-b9f95c05f25e
+  :END:
