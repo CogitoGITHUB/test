@@ -10,31 +10,3 @@
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
 
-* TODO [[id:a9ee186f-36fa-4083-b700-7a82d1a253e7][t]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-29 Sat>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("EVERGREEN" "DRAFT" "SETTLED"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED"); Field "RULES" value "WARNING" is not one of ("DRAFT" "RATIFIED" "AMENDED" "REVOKED"); Field "TRAPS_EXTERNAL" value "WARNING" is not one of ("DESIGNED" "SPRUNG" "RETIRED"); Field "TRAPS_INTERNAL" value "WARNING" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
-  :END:
-
-* TODO [[id:44523af4-c41e-461d-8d86-b5891edd7040][heho]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-29 Sat>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("EVERGREEN" "DRAFT" "SETTLED"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED"); Field "RULES" value "WARNING" is not one of ("DRAFT" "RATIFIED" "AMENDED" "REVOKED"); Field "TRAPS_EXTERNAL" value "WARNING" is not one of ("DESIGNED" "SPRUNG" "RETIRED"); Field "TRAPS_INTERNAL" value "WARNING" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
-  :END:
-
-* TODO [[id:0d1a317d-cae3-4364-85db-fdf939c4190a][oo]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-29 Sat>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("EVERGREEN" "DRAFT" "SETTLED"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED"); Field "RULES" value "WARNING" is not one of ("DRAFT" "RATIFIED" "AMENDED" "REVOKED"); Field "TRAPS_EXTERNAL" value "WARNING" is not one of ("DESIGNED" "SPRUNG" "RETIRED"); Field "TRAPS_INTERNAL" value "WARNING" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
-  :END:
-
-* TODO [[id:2c40e03c-8765-4b86-9dde-e986f6d58f68][ww]]
-  :PROPERTIES:
-  :CREATED:       <2026-08-29 Sat>
-  :SCHEMAS:       base
-  :VIOLATIONS:    Field "STATE_WORK" value "WARNING" is not one of ("ACTIVE" "PAUSED" "BLOCKED" "WAITING" "ABANDONED" "COMPLETE"); Field "STATE_GENERAL" value "WARNING" is not one of ("EVERGREEN" "DRAFT" "SETTLED"); Field "STATE_INTELLIGENCE" value "WARNING" is not one of ("UNVERIFIED" "CONFIRMED" "CONTESTED" "OBSOLETE"); Field "STATE_OPERATIONAL" value "WARNING" is not one of ("PLANNED" "IN_PROGRESS" "DEPLOYED" "SUSPENDED" "RETIRED"); Field "STATE_VALIDATION" value "WARNING" is not one of ("DRAFT" "REVIEWED" "VALIDATED" "FAILED" "SUPERSEDED"); Field "STATE_SOURCE" value "WARNING" is not one of ("UNSOURCED" "PARTIAL" "SOURCED"); Field "STATE_DEPENDENCY" value "WARNING" is not one of ("WAITING" "DELEGATED"); Field "STATE_CHECKLIST" value "WARNING" is not one of ("CHECKLIST" "REVIEWING" "MASTERED"); Field "RULES" value "WARNING" is not one of ("DRAFT" "RATIFIED" "AMENDED" "REVOKED"); Field "TRAPS_EXTERNAL" value "WARNING" is not one of ("DESIGNED" "SPRUNG" "RETIRED"); Field "TRAPS_INTERNAL" value "WARNING" is not one of ("MAPPED" "ACTIVE" "TAMED" "UNKNOWN")
-  :END:
-
