@@ -1,39 +1,39 @@
 * bbbb
 :PROPERTIES:
 :ID:       96247eed-5f1a-4502-a293-0ae220af7d8f
-:TODO_STATE: WARNING
-:TRAPS_INTERNAL: WARNING
-:TRAPS_EXTERNAL: WARNING
-:THINKING_TYPES: WARNING
-:TEMPLATE: WARNING
-:STATE_WORK: WARNING
-:STATE_VALIDATION: WARNING
-:STATE_SOURCE: WARNING
-:STATE_OPERATIONAL: WARNING
-:STATE_INTELLIGENCE: WARNING
-:STATE_GENERAL: WARNING
-:STATE_DEPENDENCY: WARNING
-:STATE_CHECKLIST: WARNING
-:SOURCES:  WARNING
-:SIGNALS:  WARNING
-:RULES:    WARNING
-:QUOTES:   WARNING
-:PRIORITY: WARNING
-:PHILOSOPHY: WARNING
-:OBJECTIVES: WARNING
-:MIND_MAP_PLACEMENT: WARNING
-:MASTERY:  WARNING
-:MASTERING: WARNING
-:LEVERAGE: WARNING
-:LAWS:     WARNING
-:JOURNAL:  WARNING
-:HYPOTHESES: WARNING
-:FAILURES: WARNING
-:EXPERIMENTS: WARNING
-:EVIDENCE: WARNING
-:DECISIONS: WARNING
-:COUNTERS: WARNING
-:CONTEXT:  WARNING
-:BLUEPRINT: WARNING
-:ADVANTAGES: WARNING
-:END:
+:TO.  [ ] Traps Internal
+.  [ ] Traps External
+.  [ ] TODO
+.  [ ] Thinking types
+.  [ ] Body template
+.  [ ] Tags
+.  [ ] Work
+.  [ ] Validation
+.  [ ] Source
+.  [ ] Operational
+.  [ ] Intelligence
+.  [ ] General
+.  [ ] Dependency
+.  [ ] Checklist
+.  [ ] Sources
+.  [ ] Signals
+.  [ ] Rules
+.  [ ] Quotes
+.  [ ] Priority
+.  [ ] Philosophy
+.  [ ] Objectives
+.  [ ] Mind Map
+.  [ ] Mastery
+.  [ ] Review
+.  [ ] Leverage
+.  [ ] Laws
+.  [ ] Journal
+.  [ ] Hypotheses
+.  [ ] Failures
+.  [ ] Experiments
+.  [ ] Evidence
+.  [ ] Decisions
+.  [ ] Counters
+.  [ ] Context
+.  [ ] Blueprint
+.  [ ] Advantages.  [ ] Deadline.  [ ] Scheduled.  [ ] Aliases
