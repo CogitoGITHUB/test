@@ -3352,3 +3352,72 @@
   :CREATED:       <2026-09-01 Tue>
   :DELETED_FILE:  oaooa
   :END:
+
+* TODO [[restore:][bbbb]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ooo/bbbb
+  :END:
+
+* TODO [[restore:][cccc]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ooo/cccc
+  :DELETED_ID:    28e77ea1-eaff-490c-8047-df222115747c
+  :END:
+
+* TODO [[restore:][hehoho]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ooo/hehoho
+  :DELETED_ID:    42a39148-1805-4b9f-8776-a0f2ffde4458
+  :END:
+
+* TODO [[restore:][hehohoohhohohooh]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ooo/hehohoohhohohooh
+  :DELETED_ID:    aa5db231-df44-4a89-99fd-fb38ba2a0521
+  :END:
+
+* TODO [[restore:][hetototo]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ooo/hetototo
+  :DELETED_ID:    0d7ae451-0cab-4628-baaa-961a2025ee41
+  :END:
+
+* TODO [[restore:][uwwuuww]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ooo/uwwuuww
+  :DELETED_ID:    784b26ef-740a-4f3c-93eb-6d52c2a33b69
+  :END:
+
+* TODO [[restore:][wewohh]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ooo/wewohh
+  :DELETED_ID:    96c3a306-a411-43de-a4ea-a9299833fa0a
+  :END:
+
+* TODO [[restore:][ppp]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  ppp
+  :DELETED_ID:    d8390b66-2884-401f-89b0-345633e2f4af
+  :END:
+
+* TODO [[restore:][pppppppp]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  pppppppp
+  :DELETED_ID:    88f57829-c246-44ac-aae1-c6be762fb736
+  :END:
+
+* TODO [[restore:][vvv]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-01 Tue>
+  :DELETED_FILE:  vvv
+  :DELETED_ID:    3bf4dd49-19a2-4d00-ae15-38c61011e35c
+  :END:
