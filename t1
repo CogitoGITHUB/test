@@ -1,6 +1,6 @@
-* WARNING                                                         :WARNING:
+* WARNING t1                                                                :WARNING:
 :PROPERTIES:
-:ID:       e1dd8ddc-93c1-4799-aa66-80f86e1fa6b7
+:ID:       0422e5df-4bbc-4450-b1ec-f34cddafd1c3
 :TODO_STATE: WARNING
 :TRAPS_INTERNAL: WARNING
 :TRAPS_EXTERNAL: WARNING
@@ -37,26 +37,3 @@
 :BLUEPRINT: WARNING
 :ADVANTAGES: WARNING
 :END:
-
-** Definition
-\begin{definition}
-%?
-\end{definition}
-
-** Theorem
-\begin{theorem}
-\end{theorem}
-
-** Lemma
-\begin{lemma}
-\end{lemma}
-
-** Proof
-\begin{proof}
-\end{proof}
-
-** Properties
--
-
-** Notes
--
