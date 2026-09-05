@@ -94,6 +94,13 @@
   :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
   :END:
 
+* TODO [[id:afc3280a-7de8-4604-9410-7f2ca25a786b][WARNING                                                              :WARNING:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-05 Sat>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
 * TODO [[id:c38b2373-918b-45fa-a797-aed680d69b5d][WARNING                                                             :WARNING:]]
   :PROPERTIES:
   :CREATED:       <2026-09-05 Sat>
