@@ -1,6 +1,6 @@
-* WARNING t1                                                                :WARNING:
+* WARNING t1 :WARNING:
 :PROPERTIES:
-:ID:       0422e5df-4bbc-4450-b1ec-f34cddafd1c3
+:ID:       f3a182ee-b47f-4d8e-a3ad-20c4b623d1a8
 :TODO_STATE: WARNING
 :TRAPS_INTERNAL: WARNING
 :TRAPS_EXTERNAL: WARNING
@@ -37,8 +37,3 @@
 :BLUEPRINT: WARNING
 :ADVANTAGES: WARNING
 :END:
-
-
-
-
-#+transclude: [[id:8f504276-1b8e-4678-a181-2b1ece3e05f5][WARNING t2                                                                :WARNING:]] :level 2
