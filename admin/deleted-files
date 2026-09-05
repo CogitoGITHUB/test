@@ -369,3 +369,9 @@
   :CREATED:       <2026-09-05 Sat>
   :DELETED_FILE:  ../.cache/org-persist/8f/1a0fd0-9d00-42a3-8d3b-5d834dd32e1f
   :END:
+
+* TODO [[restore:][straight-stderr-18313]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-05 Sat>
+  :DELETED_FILE:  ../../usr/tmp/straight-stderr-18313
+  :END:
