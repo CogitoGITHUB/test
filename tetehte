@@ -37,3 +37,26 @@
 :BLUEPRINT: WARNING
 :ADVANTAGES: WARNING
 :END:
+
+** Definition
+\begin{definition}
+%?
+\end{definition}
+
+** Theorem
+\begin{theorem}
+\end{theorem}
+
+** Lemma
+\begin{lemma}
+\end{lemma}
+
+** Proof
+\begin{proof}
+\end{proof}
+
+** Properties
+-
+
+** Notes
+-
