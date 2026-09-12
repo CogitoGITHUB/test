@@ -1,8 +1,4 @@
-Confirmed — gone-key vault strip stays log-only, preserve knowledge, no auto-delete from vault drawers. That stands.
-
-Proceed with the full design: .known-keys file, scan-current/read-last/write-last, the reconcile-on-boot function, folding sync-drawer-order-new-keys into the single scan, removing the three now-obsolete advice hooks (log-added-blueprint, after-blueprint-write, before-blueprint-delete) while keeping write-region/delete-file auto-commit paths untouched.
-
-Show diff, check-parens, confirm prompt count unaffected.* TODO test :WARNING:
+* TODO test :WARNING:
 :PROPERTIES:
 :TODO_STATE: TODO
 :ID:       619cc5ff-18f2-4a05-b4f6-2fa36162a5a0
