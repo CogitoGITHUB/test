@@ -30,3 +30,39 @@
   :NOTE_ID:       4fa07ca7-6e32-4ca8-919a-c66ddf3f452f
   :DEFAULT_VALUE:  TODO
   :END:
+
+* TODO Added property FLOWTEST_ALPHA to [[file:/data/data/com.termux/files/home/test/test::*FLOWTEST_ALPHA][test]]
+  :PROPERTIES:
+  :CREATED:        <2026-09-12 Sat>
+  :BLUEPRINT_KEY:  FLOWTEST_ALPHA
+  :NOTE_FILE:      /data/data/com.termux/files/home/test/test
+  :NOTE_ID:       619cc5ff-18f2-4a05-b4f6-2fa36162a5a0
+  :DEFAULT_VALUE:  TODO
+  :END:
+
+* TODO Added property FLOWTEST_BETA to [[file:/data/data/com.termux/files/home/test/test::*FLOWTEST_BETA][test]]
+  :PROPERTIES:
+  :CREATED:        <2026-09-12 Sat>
+  :BLUEPRINT_KEY:  FLOWTEST_BETA
+  :NOTE_FILE:      /data/data/com.termux/files/home/test/test
+  :NOTE_ID:       619cc5ff-18f2-4a05-b4f6-2fa36162a5a0
+  :DEFAULT_VALUE:  TODO
+  :END:
+
+* TODO Added property FLOWTEST_ALPHA to [[file:/data/data/com.termux/files/home/test/test_file_2::*FLOWTEST_ALPHA][test file 2]]
+  :PROPERTIES:
+  :CREATED:        <2026-09-12 Sat>
+  :BLUEPRINT_KEY:  FLOWTEST_ALPHA
+  :NOTE_FILE:      /data/data/com.termux/files/home/test/test_file_2
+  :NOTE_ID:       4fa07ca7-6e32-4ca8-919a-c66ddf3f452f
+  :DEFAULT_VALUE:  TODO
+  :END:
+
+* TODO Added property FLOWTEST_BETA to [[file:/data/data/com.termux/files/home/test/test_file_2::*FLOWTEST_BETA][test file 2]]
+  :PROPERTIES:
+  :CREATED:        <2026-09-12 Sat>
+  :BLUEPRINT_KEY:  FLOWTEST_BETA
+  :NOTE_FILE:      /data/data/com.termux/files/home/test/test_file_2
+  :NOTE_ID:       4fa07ca7-6e32-4ca8-919a-c66ddf3f452f
+  :DEFAULT_VALUE:  TODO
+  :END:
