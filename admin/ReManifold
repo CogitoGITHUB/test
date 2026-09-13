@@ -83,3 +83,27 @@
   :DELETED_ID:    418bb51f-e8ad-4177-b7fe-e4b4e223e1e0
   :DELETED_UNFOLDINGS:  admin/unfoldings/flowtest-epsilon/418bb51f-e8ad-4177-b7fe-e4b4e223e1e0-stale
   :END:
+
+* TODO [[restore:][mkmjwww]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-13 Sun>
+  :DELETED_FILE:  mkmjwww
+  :DELETED_ID:    14d1941e-52fb-4a88-a87f-cd59c5c2e992
+  :DELETED_UNFOLDINGS:  admin/unfoldings/mastery/14d1941e-52fb-4a88-a87f-cd59c5c2e992-internalizing
+  :END:
+
+* TODO [[restore:][t100]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-13 Sun>
+  :DELETED_FILE:  t100
+  :DELETED_ID:    ece83b29-515f-4c18-935b-ffcf9cc214a3
+  :DELETED_UNFOLDINGS:  admin/unfoldings/advantages/ece83b29-515f-4c18-935b-ffcf9cc214a3-expired
+  :END:
+
+* TODO [[restore:][testing]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-13 Sun>
+  :DELETED_FILE:  testing
+  :DELETED_ID:    6a69631b-54d6-49d1-9865-ce163439ca24
+  :DELETED_UNFOLDINGS:  admin/unfoldings/experiments/6a69631b-54d6-49d1-9865-ce163439ca24-inconclusive
+  :END:
