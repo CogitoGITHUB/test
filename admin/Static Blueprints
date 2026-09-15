@@ -1,0 +1,68 @@
+#+TITLE: Static Blueprints
+#+AUTHOR: Manifolding Atlas Git VC System
+#+DESCRIPTION: Auto-generated - notes holding static defaults that want unfolding links.
+#+STARTUP: overview
+
+* TODO [[id:45137098-957f-4e11-baff-cba4c415e5e3][STATE_WORK > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:d06a16ee-6c97-48e6-8070-390c7d54b7e2][STATE_VALIDATION > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:8066fcbb-fb97-404e-8525-501ceed1058d][STATE_SOURCE > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:b3720bf6-e537-4eca-bbc6-f507f4be7410][STATE_OPERATIONAL > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:323c5888-d0d1-40d0-98e7-b63a419b2afe][STATE_INTELLIGENCE > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:be6201f5-1252-4335-ae39-2132f32164b5][STATE_GENERAL > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:67bcbf6e-e22a-4647-803e-329cfaa322e1][STATE_DEPENDENCY > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:cb969b89-fc87-47ea-bbe0-68ed463cf11c][STATE_CHECKLIST > :TODO:]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
+* TODO [[id:cd816c70-5813-4b34-bb03-af69d8a2e1aa][test]]
+  :PROPERTIES:
+  :CREATED:       <2026-09-15 Tue>
+  :SCHEMAS:       base
+  :VIOLATIONS:    Required field "STATE_WORK" is missing; Required field "STATE_GENERAL" is missing; Required field "STATE_INTELLIGENCE" is missing; Required field "STATE_OPERATIONAL" is missing; Required field "STATE_VALIDATION" is missing; Required field "STATE_SOURCE" is missing
+  :END:
+
